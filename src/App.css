@@ -1,0 +1,158 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  margin: 0; background-color: #f0f2f5; color: #1a1a1a;
+}
+.app-container {
+  display: flex; flex-direction: column; height: 100vh; overflow: hidden;
+}
+.header {
+  padding: 0.75rem 1rem; background-color: white; border-bottom: 1px solid #ddd; flex-shrink: 0; z-index: 20;
+}
+.header h1 {
+  margin: 0; font-size: 1.25rem; color: #1a1a1a;
+}
+.filters-container {
+  padding: 0.75rem 1rem; background-color: #fafafa; border-bottom: 1px solid #ddd;
+  display: flex; align-items: center; gap: 1.5rem; flex-shrink: 0; flex-wrap: wrap; z-index: 20;
+}
+.filter-item {
+  display: flex; align-items: center; gap: 0.5rem;
+}
+.download-button {
+  background-color: #28a745; color: white; padding: 4px 10px;
+  border-radius: 4px; text-decoration: none; font-size: 0.9rem;
+  font-weight: 500; transition: background-color 0.2s;
+}
+.download-button:hover {
+  background-color: #218838;
+}
+.main-content {
+  display: flex; flex-grow: 1; min-height: 0;
+}
+.map-view-container {
+  flex-grow: 1; min-height: 0;
+}
+.leaflet-container {
+  width: 100%; height: 100%;
+}
+.game-list-container {
+  width: 400px; flex-shrink: 0; background-color: white;
+  border-left: 1px solid #ddd; display: flex; flex-direction: column;
+}
+.game-list {
+  overflow-y: auto; flex-grow: 1;
+}
+.game-list h4 {
+  background-color: #343a40; color: white; padding: 0.75rem;
+  margin: 0; font-size: 1rem; position: sticky; top: 0; z-index: 10;
+  display: flex; justify-content: space-between; align-items: center; cursor: pointer;
+}
+.location-group {
+  margin-bottom: 0.5rem;
+}
+.location-group h3 {
+  font-size: 0.9rem; font-weight: bold; color: #333; margin: 0;
+  padding: 0.75rem; background-color: #f0f2f5; border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd; cursor: pointer; transition: background-color 0.2s;
+  display: flex; justify-content: space-between; align-items: center;
+}
+.location-group h3:hover { background-color: #e9ecef; }
+.game-card { border-bottom: 1px solid #eee; padding: 0.75rem; transition: background-color 0.2s; }
+.game-card-header { display: flex; justify-content: space-between; align-items: center; font-size: 0.8rem; color: #555; margin-bottom: 0.5rem; }
+.game-card-body { text-align: center; }
+.game-card-body p { margin: 0.25rem 0; font-weight: 500; white-space: normal; overflow-wrap: break-word; }
+.game-card-footer { text-align: left; font-size: 0.8rem; color: #333; margin-top: 0.75rem; }
+.highlighted-group { background-color: #ffffa0; border-left: 4px solid #ffc107; }
+.highlighted-card { background-color: #fff3e0; border-left: 4px solid #fd7e14; }
+.custom-marker-icon, .highlighted-marker-icon {
+  border-radius: 50%; font-weight: bold; font-size: 14px;
+  display: flex; justify-content: center; align-items: center;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.4); line-height: 24px; text-align: center;
+}
+.custom-marker-icon {
+  background-color: #007bff; border: 3px solid white; color: white;
+}
+.highlighted-marker-icon {
+  background-color: #ffc107; border: 3px solid #343a40; color: #343a40;
+}
+.leaflet-tooltip { padding: 0; border: none; border-radius: 6px; background-color: transparent; box-shadow: none; }
+.leaflet-tooltip-right::before { content: none; }
+.game-card-tooltip .leaflet-tooltip-content { display: flex; flex-direction: column; gap: 4px; }
+
+.on-map-game-card {
+  font-size: 0.8rem;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 4px 8px;
+  display: flex; /* Changed from grid */
+  gap: 8px;     /* Reduced the gap */
+  align-items: center;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.on-map-game-card:hover { background-color: #f0f2f5; }
+.accordion-icon {
+  display: inline-block; width: 0; height: 0;
+  margin-left: auto; margin-right: 5px;
+  border-left: 5px solid transparent; border-right: 5px solid transparent;
+  border-top: 5px solid #555; transition: transform 0.2s ease-in-out;
+}
+.game-list h4 .accordion-icon {
+  border-top-color: white; /* Make icon white on the dark header */
+}
+.accordion-icon.expanded {
+  transform: rotate(180deg);
+}
+
+/* --- MOBILE RESPONSIVE STYLES --- */
+@media (max-width: 768px) {
+  .main-content {
+    flex-direction: column;
+  }
+  .game-list-container {
+    width: 100%;
+    height: 50%;
+    border-left: none;
+    border-top: 1px solid #ddd;
+    order: 2; /* List is second */
+  }
+  .map-view-container {
+    height: 50%;
+    order: 1; /* Map is first */
+  }
+
+  /* UPDATED: Styles for filter layout */
+  .filters-container {
+    flex-direction: column; /* Stack the filter rows vertically */
+    gap: 0.5rem;
+    align-items: stretch;
+  }
+  .filter-row {
+    display: flex;
+    width: 100%;
+    gap: 1rem;
+  }
+  .filter-item {
+    flex: 1; /* Allow items to share space */
+    min-width: 0;
+  }
+  .filter-item select {
+    width: 100%; /* Make dropdowns fill their container */
+  }
+
+  /* Font size adjustments */
+  .game-card {
+    padding: 0.5rem;
+    font-size: 0.9rem;
+  }
+  .location-group h3 {
+    font-size: 0.85rem;
+    padding: 0.5rem;
+  }
+  .game-card-header, .game-card-footer {
+    font-size: 0.75rem;
+  }
+}
