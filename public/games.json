@@ -4,7 +4,7 @@
     "date": "Saturday, October  4, 2025",
     "time": "08:00 PDT",
     "time24": "08:00",
-    "homeTeam": "Select 2018",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT 2018",
     "awayTeam": "San Diego FORCE FC 2018 Boys Academy",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -15,14 +15,38 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2018",
+    "Flight": "3"
+  },
+  {
+    "matchId": "5659",
+    "date": "Saturday, October  4, 2025",
+    "time": "08:00 PDT",
+    "time24": "08:00",
+    "homeTeam": "Coronado FC B2016G - Polley",
+    "awayTeam": "ELI7E FC  ELI7E FC- SELECT 2016",
+    "location": "Coronado Cays Park - Field 1B - 7v7",
+    "address": "Coronado Cays Park, Coronado, CA 92118",
+    "division": "B16 - Flight 4 South SD",
+    "coachName": "Leticia Riordan",
+    "isEli7eGame": true,
+    "eli7eTeamName": "Select 2016",
+    "coords": [
+      32.622283,
+      -117.135635
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "4"
   },
   {
     "matchId": "24271",
     "date": "Saturday, October  4, 2025",
     "time": "08:00 PDT",
     "time24": "08:00",
-    "homeTeam": "Select 2016G",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT 2016G",
     "awayTeam": "ALBION SC San Diego ALBION SC San Diego CV G16 Academy",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 1 (9v9/7v7 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -33,7 +57,52 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2016",
+    "Flight": "3"
+  },
+  {
+    "matchId": "1483",
+    "date": "Saturday, October  4, 2025",
+    "time": "08:00 PDT",
+    "time24": "08:00",
+    "homeTeam": "Legends FC SD North B18 Black - EC",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT CV 2018",
+    "location": "Renette Park - 11v11",
+    "address": "Renette Park, El Cajon, CA 92020",
+    "division": "B18 - Flight 4 South SD",
+    "coachName": "Bryan Durazo Ruiz",
+    "isEli7eGame": true,
+    "eli7eTeamName": "Select CV 2018",
+    "coords": [
+      32.783176,
+      -116.968483
+    ],
+    "Gender": "B",
+    "Year": "2018",
+    "Flight": "4"
+  },
+  {
+    "matchId": "5273",
+    "date": "Saturday, October  4, 2025",
+    "time": "08:45 PDT",
+    "time24": "08:45",
+    "homeTeam": "Golden Eagles FC B2016",
+    "awayTeam": "ELI7E FC  ELI7E FC- ACADEMY B2016",
+    "location": "Harvest Park - GEFC field #1",
+    "address": "Harvest Park, Pauma Valley, CA 92061",
+    "division": "B16 - Flight 3 South SD",
+    "coachName": "Flavio Mora Gomez",
+    "isEli7eGame": true,
+    "eli7eTeamName": "Academy B2016",
+    "coords": [
+      33.2863,
+      -116.9751
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "3"
   },
   {
     "matchId": "23442",
@@ -41,7 +110,7 @@
     "time": "09:25 PDT",
     "time24": "09:25",
     "homeTeam": "Express Soccer G16 Premier Couchman",
-    "awayTeam": "Legacy 2016G",
+    "awayTeam": "ELI7E FC  ELI7E FC - LEGACY 2016G",
     "location": "Encinitas Community Park - ECP #3",
     "address": "425 Santa Fe Dr, Encinitas, CA 92024",
     "division": "G16 - Flight 1 SD",
@@ -51,14 +120,17 @@
     "coords": [
       33.0352624,
       -117.2837868
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2016",
+    "Flight": "1"
   },
   {
     "matchId": "26606",
     "date": "Saturday, October  4, 2025",
     "time": "09:25 PDT",
     "time24": "09:25",
-    "homeTeam": "Pre Academy 2018G",
+    "homeTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY 2018G",
     "awayTeam": "Rebels Soccer Club G18 Academy",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -69,14 +141,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2018",
+    "Flight": "3"
   },
   {
     "matchId": "5660",
     "date": "Saturday, October  4, 2025",
     "time": "09:25 PDT",
     "time24": "09:25",
-    "homeTeam": "Select CV 2016",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT CV 2016",
     "awayTeam": "ALBION SC San Diego ALBION SC San Diego CV B16 Premier",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 1 (9v9/7v7 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -87,7 +162,52 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "4"
+  },
+  {
+    "matchId": "17978",
+    "date": "Saturday, October  4, 2025",
+    "time": "09:55 PDT",
+    "time24": "09:55",
+    "homeTeam": "San Diego FORCE FC 2012 Boys Premier",
+    "awayTeam": "ELI7E FC  ELI7E FC - ACADEMY 2012",
+    "location": "4S Ranch Sports Park - 4S - Field 5 (SD Force FC) 11v11",
+    "address": "4S Ranch Sports Park, San Diego, CA 92127",
+    "division": "B12 - Flight 4 SD",
+    "coachName": "Carlos Araujo",
+    "isEli7eGame": true,
+    "eli7eTeamName": "Academy 2012",
+    "coords": [
+      33.004394,
+      -117.119511
+    ],
+    "Gender": "B",
+    "Year": "2012",
+    "Flight": "4"
+  },
+  {
+    "matchId": "2930",
+    "date": "Saturday, October  4, 2025",
+    "time": "10:10 PDT",
+    "time24": "10:10",
+    "homeTeam": "Golden Eagles FC B2017",
+    "awayTeam": "ELI7E FC  ELI7E FC- SELECT CV 2017",
+    "location": "Harvest Park - GEFC field #1",
+    "address": "Harvest Park, Pauma Valley, CA 92061",
+    "division": "B17 - Flight 3 SD South",
+    "coachName": "Luis Maprigat",
+    "isEli7eGame": true,
+    "eli7eTeamName": "Select CV 2017",
+    "coords": [
+      33.2863,
+      -116.9751
+    ],
+    "Gender": "B",
+    "Year": "2017",
+    "Flight": "3"
   },
   {
     "matchId": "3243",
@@ -95,9 +215,9 @@
     "time": "10:25 PDT",
     "time24": "10:25",
     "homeTeam": "South Bay FC B-2017 Cesar Ramirez",
-    "awayTeam": "Select 2017",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT 2017",
     "location": "Cesar Solis Comm. Park - Field #1",
-    "address": "4901 Del Sol Blvd, San Diego, CA 92154",
+    "address": "Cesar Solis Community Park, San Diego, CA 92154",
     "division": " B17 - Flight 4 South II SD ",
     "coachName": "Jose Gomez",
     "isEli7eGame": true,
@@ -105,7 +225,10 @@
     "coords": [
       32.571985,
       -117.026126
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2017",
+    "Flight": "4"
   },
   {
     "matchId": "28663",
@@ -113,7 +236,7 @@
     "time": "10:30 PDT",
     "time24": "10:30",
     "homeTeam": "Rayados Academy San Diego Rayados Academy B14 Z.Agundez",
-    "awayTeam": "Select CV 2014",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT CV 2014",
     "location": "Los Ninos Park - Field 2",
     "address": "150 Teal St, Chula Vista, CA 91910",
     "division": "B14 - Flight 4 South SD",
@@ -123,14 +246,17 @@
     "coords": [
       32.5987233,
       -117.0450944
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "4"
   },
   {
     "matchId": "21631",
     "date": "Saturday, October  4, 2025",
     "time": "10:50 PDT",
     "time24": "10:50",
-    "homeTeam": "Academy 2011",
+    "homeTeam": "ELI7E FC  ELI7E FC- ACADEMY 2011",
     "awayTeam": "City SC Chula Vista B2011 Traxler",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 6 (11v11 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -141,14 +267,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2011",
+    "Flight": "3"
   },
   {
     "matchId": "26756",
     "date": "Saturday, October  4, 2025",
     "time": "10:50 PDT",
     "time24": "10:50",
-    "homeTeam": "Pre Academy CV 2018G",
+    "homeTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY CV 2018G",
     "awayTeam": "Sporting San Diego G2018/19 Black",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -159,7 +288,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2018",
+    "Flight": "4"
   },
   {
     "matchId": "3615",
@@ -167,7 +299,7 @@
     "time": "10:50 PDT",
     "time24": "10:50",
     "homeTeam": "Legends FC - San Diego B16 FC",
-    "awayTeam": "Legacy 2016",
+    "awayTeam": "ELI7E FC  ELI7E FC- LEGACY 2016",
     "location": "Sequioa Elementary School - Field #1 (7v7)",
     "address": "4690 Limerick Ave, San Diego, CA 92117",
     "division": "B16 - Flight 1 South SD",
@@ -177,14 +309,38 @@
     "coords": [
       32.828141,
       -117.179368
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "1"
+  },
+  {
+    "matchId": "14877",
+    "date": "Saturday, October  4, 2025",
+    "time": "11:00 PDT",
+    "time24": "11:00",
+    "homeTeam": "United SoCal South SD B2013",
+    "awayTeam": "ELI7E FC  ELI7E FC- SELECT 2013",
+    "location": "Orange Park - 11 v 11",
+    "address": "Orange Park, Chula Vista, CA 91911",
+    "division": "B13 - Flight 3 South SD",
+    "coachName": "Bruno Piceno",
+    "isEli7eGame": true,
+    "eli7eTeamName": "Select 2013",
+    "coords": [
+      32.6265,
+      -117.0585
+    ],
+    "Gender": "B",
+    "Year": "2013",
+    "Flight": "3"
   },
   {
     "matchId": "196",
     "date": "Saturday, October  4, 2025",
     "time": "12:15 PDT",
     "time24": "12:15",
-    "homeTeam": "Premier CV 2019",
+    "homeTeam": "ELI7E FC  ELI7E FC- PREMIER CV 2019",
     "awayTeam": "City SC - San Marcos B2019 Gold - Olvera",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -195,7 +351,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2019",
+    "Flight": "4"
   },
   {
     "matchId": "2929",
@@ -203,7 +362,7 @@
     "time": "12:15 PDT",
     "time24": "12:15",
     "homeTeam": "City SC Chula Vista B2017 Martinez",
-    "awayTeam": "Academy 2017",
+    "awayTeam": "ELI7E FC  ELI7E FC- ACADEMY 2017",
     "location": "Santa Venetia Park - Ballfield 7v7",
     "address": "1501 Magdalena Ave, Chula Vista, CA 91913",
     "division": "B17 - Flight 3 SD South",
@@ -213,14 +372,17 @@
     "coords": [
       32.625252,
       -116.975452
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2017",
+    "Flight": "3"
   },
   {
     "matchId": "23223",
     "date": "Saturday, October  4, 2025",
     "time": "12:35 PDT",
     "time24": "12:35",
-    "homeTeam": "Academy 2010",
+    "homeTeam": "ELI7E FC  ELI7E FC- ACADEMY 2010",
     "awayTeam": "City SC Chula Vista B2010 Rodriguez",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 6 (11v11 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -231,14 +393,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2010",
+    "Flight": "2"
   },
   {
     "matchId": "259",
     "date": "Saturday, October  4, 2025",
     "time": "13:40 PDT",
     "time24": "13:40",
-    "homeTeam": "Select B2019",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT B2019",
     "awayTeam": "Rebels San Diego B2019 Premier (Andrews II)",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -249,7 +414,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2019",
+    "Flight": "4"
   },
   {
     "matchId": "29279",
@@ -257,7 +425,7 @@
     "time": "13:40 PDT",
     "time24": "13:40",
     "homeTeam": "Gremio Football Club (CA) Grêmio G2017 TS",
-    "awayTeam": "Select 2017G",
+    "awayTeam": "ELI7E FC  ELI7E FC- SELECT 2017G",
     "location": "Cubberley Elementary School - Field 1",
     "address": "3201 Marathon Dr, San Diego, CA 92123",
     "division": "G17 - Flight 4 South SD",
@@ -267,14 +435,17 @@
     "coords": [
       32.8019169,
       -117.1262534
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2017",
+    "Flight": "4"
   },
   {
     "matchId": "261",
     "date": "Saturday, October  4, 2025",
     "time": "15:05 PDT",
     "time24": "15:05",
-    "homeTeam": "Pre Academy 2019",
+    "homeTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY 2019",
     "awayTeam": "San Diego Motion FC B2019",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -285,7 +456,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2019",
+    "Flight": "4"
   },
   {
     "matchId": "5601",
@@ -293,7 +467,7 @@
     "time": "16:05 PDT",
     "time24": "16:05",
     "homeTeam": "San Diego Surf Soccer Club SD Surf Academy Boys 2016 (Penate)",
-    "awayTeam": "Premier 2016",
+    "awayTeam": "ELI7E FC  ELI7E FC- PREMIER 2016",
     "location": "Surf Sports Park - Field D",
     "address": "14989 Via De La Valle, Del Mar, CA 92014",
     "division": "B16 - Flight 4 SD Central II",
@@ -303,7 +477,10 @@
     "coords": [
       32.9802564,
       -117.2680736
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "4"
   },
   {
     "matchId": "28426",
@@ -311,9 +488,9 @@
     "time": "16:35 PDT",
     "time24": "16:35",
     "homeTeam": "Crusaders Soccer League G2011/12 Academy Ortiz",
-    "awayTeam": "Select G2011",
+    "awayTeam": "ELI7E FC  ELI7E FC- SELECT G2011",
     "location": "Pershing Middle School - Pershing Middle School #2",
-    "address": "8204 San Carlos Dr, San Diego, CA 92119",
+    "address": "Pershing Middle School, San Diego, CA 92119",
     "division": "G11 - Flight 4 SD",
     "coachName": "Mayra Corona",
     "isEli7eGame": true,
@@ -321,7 +498,10 @@
     "coords": [
       32.802331,
       -117.020297
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2011",
+    "Flight": "4"
   },
   {
     "matchId": "22788",
@@ -329,9 +509,9 @@
     "time": "09:00 PDT",
     "time24": "09:00",
     "homeTeam": "South Bay FC G-2015 Jose Gonzalez",
-    "awayTeam": "Academy 2015G",
+    "awayTeam": "ELI7E FC  ELI7E FC- ACADEMY 2015G",
     "location": "Cesar Solis Comm. Park - Field #5",
-    "address": "4901 Del Sol Blvd, San Diego, CA 92154",
+    "address": "Cesar Solis Community Park, San Diego, CA 92154",
     "division": "G15 - Flight 3 South SD",
     "coachName": "Ignacio Bocanegra",
     "isEli7eGame": true,
@@ -339,7 +519,10 @@
     "coords": [
       32.571985,
       -117.026126
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2015",
+    "Flight": "3"
   },
   {
     "matchId": "3617",
@@ -347,7 +530,7 @@
     "time": "09:00 PDT",
     "time24": "09:00",
     "homeTeam": "ALBION SC San Diego ALBION SC San Diego B16 Academy'''",
-    "awayTeam": "Legacy 2016",
+    "awayTeam": "ELI7E FC  ELI7E FC- LEGACY 2016",
     "location": "ROBB FIELD - Field 1 (7v7)",
     "address": "2525 Bacon St, San Diego, CA 92107",
     "division": "B16 - Flight 1 South SD",
@@ -357,7 +540,10 @@
     "coords": [
       32.7533409,
       -117.2452062
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "1"
   },
   {
     "matchId": "29281",
@@ -365,17 +551,20 @@
     "time": "09:25 PDT",
     "time24": "09:25",
     "homeTeam": "Chula Vista FC Chula Vista FC G2017-18 Villa",
-    "awayTeam": "Select 2017G",
+    "awayTeam": "ELI7E FC  ELI7E FC- SELECT 2017G",
     "location": "Terra Nova Park - Field 3 (7v7)",
-    "address": "4400 Terra Nova Dr, San Diego, CA 92111",
+    "address": "Terra Nova Park, Chula Vista, CA 91911",
     "division": "G17 - Flight 4 South SD",
     "coachName": "Kelly Lazzara",
     "isEli7eGame": true,
     "eli7eTeamName": "Select 2017G",
     "coords": [
-      32.6440313,
-      -117.0393779
-    ]
+      32.644031,
+      -117.039377
+    ],
+    "Gender": "G",
+    "Year": "2017",
+    "Flight": "4"
   },
   {
     "matchId": "11392",
@@ -383,7 +572,7 @@
     "time": "09:25 PDT",
     "time24": "09:25",
     "homeTeam": "Nido Aguila San Diego Nido Aguila SD Cabrales B2014",
-    "awayTeam": "Academy 2014",
+    "awayTeam": "ELI7E FC  ELI7E FC- ACADEMY 2014",
     "location": "Montgomery Waller Park - Field 1 11v11",
     "address": "3020 Coronado Ave, San Diego, CA 92154",
     "division": "B14 - Flight 3 South SD",
@@ -393,7 +582,10 @@
     "coords": [
       32.5790138,
       -117.0688224
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "3"
   },
   {
     "matchId": "202",
@@ -401,7 +593,7 @@
     "time": "09:25 PDT",
     "time24": "09:25",
     "homeTeam": "La Jolla Impact La Jolla Impact B2019",
-    "awayTeam": "Premier CV 2019",
+    "awayTeam": "ELI7E FC  ELI7E FC- PREMIER CV 2019",
     "location": "Allen Field - Allen Center",
     "address": "3908 Torrey Pines Rd, La Jolla, CA 92037",
     "division": "B19 - Flight 4 Central SD",
@@ -411,7 +603,10 @@
     "coords": [
       32.84545,
       -117.269221
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2019",
+    "Flight": "4"
   },
   {
     "matchId": "7876",
@@ -419,7 +614,7 @@
     "time": "09:25 PDT",
     "time24": "09:25",
     "homeTeam": "City SC Chula Vista B2015 Castaneda",
-    "awayTeam": "Select CV 2015",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT CV 2015",
     "location": "Santa Venetia Park - North 9v9",
     "address": "1501 Magdalena Ave, Chula Vista, CA 91913",
     "division": "B15 - Flight 4 South SD",
@@ -429,7 +624,10 @@
     "coords": [
       32.625252,
       -116.975452
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2015",
+    "Flight": "4"
   },
   {
     "matchId": "21638",
@@ -437,7 +635,7 @@
     "time": "09:45 PDT",
     "time24": "09:45",
     "homeTeam": "United SoCal East County (SD) B2011 White",
-    "awayTeam": "Academy 2011",
+    "awayTeam": "ELI7E FC  ELI7E FC- ACADEMY 2011",
     "location": "Joan MacQueen Middle School - Field 1 Turf 11v11",
     "address": "2001 Tavern Rd, Alpine, CA 91901",
     "division": "B11 - Flight 3 Central SD",
@@ -447,7 +645,10 @@
     "coords": [
       32.8245809,
       -116.7753838
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2011",
+    "Flight": "3"
   },
   {
     "matchId": "23451",
@@ -455,7 +656,7 @@
     "time": "10:25 PDT",
     "time24": "10:25",
     "homeTeam": "San Diego Surf Soccer Club SD Surf Academy Girls 2017 (Brookfield)",
-    "awayTeam": "Legacy 2016G",
+    "awayTeam": "ELI7E FC  ELI7E FC - LEGACY 2016G",
     "location": "Surf Sports Park - Field 07",
     "address": "14989 Via De La Valle, Del Mar, CA 92014",
     "division": "G16 - Flight 1 SD",
@@ -465,7 +666,10 @@
     "coords": [
       32.9802564,
       -117.2680736
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2016",
+    "Flight": "1"
   },
   {
     "matchId": "25775",
@@ -473,17 +677,20 @@
     "time": "10:25 PDT",
     "time24": "10:25",
     "homeTeam": "Vaqueros FC G2017 PREMIER",
-    "awayTeam": "Select CV 2017G",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT CV 2017G",
     "location": "Arbolitos Sport Fields - South - 7v7",
-    "address": "14401 Pomerado Rd, Poway, CA 92064",
+    "address": "Arbolitos Sports Fields, Poway, CA 92064",
     "division": "G17 - Flight 3 South SD",
     "coachName": "Robert Casas",
     "isEli7eGame": true,
     "eli7eTeamName": "Select CV 2017G",
     "coords": [
-      32.9746797,
-      -117.0623383
-    ]
+      32.974679,
+      -117.062338
+    ],
+    "Gender": "G",
+    "Year": "2017",
+    "Flight": "3"
   },
   {
     "matchId": "265",
@@ -491,7 +698,7 @@
     "time": "10:45 PDT",
     "time24": "10:45",
     "homeTeam": "San Diego Motion FC B2019",
-    "awayTeam": "Select B2019",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT B2019",
     "location": "Cherokee Joint Use Field - Field #1",
     "address": "3735 38th St, San Diego, CA 92105",
     "division": "B19 - Flight 4 South SD ",
@@ -501,7 +708,10 @@
     "coords": [
       32.7471324,
       -117.1117992
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2019",
+    "Flight": "4"
   },
   {
     "matchId": "263",
@@ -509,7 +719,7 @@
     "time": "10:50 PDT",
     "time24": "10:50",
     "homeTeam": "Rebels San Diego B2019 Premier (Andrews II)",
-    "awayTeam": "Pre Academy 2019",
+    "awayTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY 2019",
     "location": "Naranca Elementary School - Naranca 7v7",
     "address": "1030 Naranca Ave, El Cajon, CA 92021",
     "division": "B19 - Flight 4 South SD ",
@@ -519,7 +729,31 @@
     "coords": [
       32.8040181,
       -116.9475276
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2019",
+    "Flight": "4"
+  },
+  {
+    "matchId": "6808",
+    "date": "Sunday, October  5, 2025",
+    "time": "10:50 PDT",
+    "time24": "10:50",
+    "homeTeam": "Sporting San Diego B2015 Pre MLS Next Academy",
+    "awayTeam": "ELI7E FC  ELI7E FC- LEGACY 2015",
+    "location": "Los Coches Creek Middle School - 9v9",
+    "address": "Los Coches Creek Middle School, El Cajon, CA 92021",
+    "division": "B15 - Flight 2 South SD",
+    "coachName": "Christian Austria",
+    "isEli7eGame": true,
+    "eli7eTeamName": "Legacy 2015",
+    "coords": [
+      32.8323,
+      -116.8887
+    ],
+    "Gender": "B",
+    "Year": "2015",
+    "Flight": "2"
   },
   {
     "matchId": "8533",
@@ -527,7 +761,7 @@
     "time": "12:15 PDT",
     "time24": "12:15",
     "homeTeam": "Rebels Soccer Club B14 Academy",
-    "awayTeam": "Legacy B2014",
+    "awayTeam": "ELI7E FC  ELI7E FC- LEGACY B2014",
     "location": "Heritage Park (San Diego) - Field #1 (9v9)",
     "address": "2454 Heritage Park Row, San Diego, CA 92110",
     "division": "B14 - Flight 1 South SD",
@@ -537,7 +771,10 @@
     "coords": [
       32.7539857,
       -117.1928568
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "1"
   },
   {
     "matchId": "3245",
@@ -545,7 +782,7 @@
     "time": "12:15 PDT",
     "time24": "12:15",
     "homeTeam": "Rebels Soccer Club B17 Premier",
-    "awayTeam": "Select 2017",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT 2017",
     "location": "Cottonwood Park - Field #2 - Back (7v7)",
     "address": "1778 E Palomar St, Chula Vista, CA 91913",
     "division": " B17 - Flight 4 South II SD ",
@@ -555,7 +792,31 @@
     "coords": [
       32.6315748,
       -116.9832965
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2017",
+    "Flight": "4"
+  },
+  {
+    "matchId": "24278",
+    "date": "Sunday, October  5, 2025",
+    "time": "12:15 PDT",
+    "time24": "12:15",
+    "homeTeam": "Sporting San Diego G2016 White",
+    "awayTeam": "ELI7E FC  ELI7E FC- SELECT 2016G",
+    "location": "Los Coches Creek Middle School - 7v7",
+    "address": "Los Coches Creek Middle School, El Cajon, CA 92021",
+    "division": "G16 - Flight 3 South SD",
+    "coachName": "Ignacio Bocanegra",
+    "isEli7eGame": true,
+    "eli7eTeamName": "Select 2016G",
+    "coords": [
+      32.8323,
+      -116.8887
+    ],
+    "Gender": "G",
+    "Year": "2016",
+    "Flight": "3"
   },
   {
     "matchId": "1102",
@@ -563,7 +824,7 @@
     "time": "13:15 PDT",
     "time24": "13:15",
     "homeTeam": "ALBION SC San Diego ALBION SC San Diego B18 Academy I",
-    "awayTeam": "Select 2018",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT 2018",
     "location": "ROBB FIELD - Field 1 (7v7)",
     "address": "2525 Bacon St, San Diego, CA 92107",
     "division": "B18 - Flight 3 SD",
@@ -573,7 +834,10 @@
     "coords": [
       32.7533409,
       -117.2452062
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2018",
+    "Flight": "3"
   },
   {
     "matchId": "2932",
@@ -581,24 +845,27 @@
     "time": "13:40 PDT",
     "time24": "13:40",
     "homeTeam": "Chula Vista FC Chula Vista FC B2017 Villa",
-    "awayTeam": "Select CV 2017",
+    "awayTeam": "ELI7E FC  ELI7E FC- SELECT CV 2017",
     "location": "Terra Nova Park - Field 3 (7v7)",
-    "address": "4400 Terra Nova Dr, San Diego, CA 92111",
+    "address": "Terra Nova Park, Chula Vista, CA 91911",
     "division": "B17 - Flight 3 SD South",
     "coachName": "Luis Maprigat",
     "isEli7eGame": true,
     "eli7eTeamName": "Select CV 2017",
     "coords": [
-      32.6440313,
-      -117.0393779
-    ]
+      32.644031,
+      -117.039377
+    ],
+    "Gender": "B",
+    "Year": "2017",
+    "Flight": "3"
   },
   {
     "matchId": "5667",
     "date": "Sunday, October  5, 2025",
     "time": "14:00 PDT",
     "time24": "14:00",
-    "homeTeam": "Select CV 2016",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT CV 2016",
     "awayTeam": "Crusaders Soccer League B2016 Elite Melendez",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 4 (7v7 north)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -609,14 +876,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "4"
   },
   {
     "matchId": "7881",
     "date": "Sunday, October  5, 2025",
     "time": "14:00 PDT",
     "time24": "14:00",
-    "homeTeam": "Select 2015",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT 2015",
     "awayTeam": "Rayados Academy San Diego Rayados Academy B15 G.Zuniga",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -627,14 +897,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2015",
+    "Flight": "4"
   },
   {
     "matchId": "28427",
     "date": "Sunday, October  5, 2025",
     "time": "14:00 PDT",
     "time24": "14:00",
-    "homeTeam": "Select G2011",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT G2011",
     "awayTeam": "City SC - San Marcos G2011 Gold - Simmons",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 6 (11v11 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -645,7 +918,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2011",
+    "Flight": "4"
   },
   {
     "matchId": "26758",
@@ -653,7 +929,7 @@
     "time": "15:05 PDT",
     "time24": "15:05",
     "homeTeam": "Rebels San Diego G2018 Premier (Estrada)",
-    "awayTeam": "Pre Academy CV 2018G",
+    "awayTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY CV 2018G",
     "location": "Naranca Elementary School - Naranca 7v7",
     "address": "1030 Naranca Ave, El Cajon, CA 92021",
     "division": "G18 - Flight 4 South SD",
@@ -663,14 +939,17 @@
     "coords": [
       32.8040181,
       -116.9475276
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2018",
+    "Flight": "4"
   },
   {
     "matchId": "5280",
     "date": "Sunday, October  5, 2025",
     "time": "15:25 PDT",
     "time24": "15:25",
-    "homeTeam": "Academy B2016",
+    "homeTeam": "ELI7E FC  ELI7E FC- ACADEMY B2016",
     "awayTeam": "United SoCal San Diego B2016",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -681,14 +960,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "3"
   },
   {
     "matchId": "2933",
     "date": "Sunday, October  5, 2025",
     "time": "15:25 PDT",
     "time24": "15:25",
-    "homeTeam": "Academy 2017",
+    "homeTeam": "ELI7E FC  ELI7E FC- ACADEMY 2017",
     "awayTeam": "Rebels Soccer Club B17 Academy 2",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 4 (7v7 north)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -699,14 +981,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2017",
+    "Flight": "3"
   },
   {
     "matchId": "5664",
     "date": "Sunday, October  5, 2025",
     "time": "16:50 PDT",
     "time24": "16:50",
-    "homeTeam": "Select 2016",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT 2016",
     "awayTeam": "ALBION SC San Diego ALBION SC San Diego B16 Premier",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -717,14 +1002,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "4"
   },
   {
     "matchId": "1487",
     "date": "Sunday, October  5, 2025",
     "time": "16:50 PDT",
     "time24": "16:50",
-    "homeTeam": "Select CV 2018",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT CV 2018",
     "awayTeam": "Rebels Soccer Club B18 Rebels SC Coronado",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 4 (7v7 north)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -735,14 +1023,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2018",
+    "Flight": "4"
   },
   {
     "matchId": "23452",
     "date": "Saturday, October 11, 2025",
     "time": "08:00 PDT",
     "time24": "08:00",
-    "homeTeam": "Legacy 2016G",
+    "homeTeam": "ELI7E FC  ELI7E FC - LEGACY 2016G",
     "awayTeam": "City SC Carlsbad G16 Pre Academy - Hunt",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 1 (9v9/7v7 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -753,14 +1044,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2016",
+    "Flight": "1"
   },
   {
     "matchId": "5605",
     "date": "Saturday, October 11, 2025",
     "time": "08:00 PDT",
     "time24": "08:00",
-    "homeTeam": "Premier 2016",
+    "homeTeam": "ELI7E FC  ELI7E FC- PREMIER 2016",
     "awayTeam": "Rebels Central Rebels Central B2016 Gold",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 4 (7v7 north)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -771,14 +1065,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "4"
   },
   {
     "matchId": "1109",
     "date": "Saturday, October 11, 2025",
     "time": "08:00 PDT",
     "time24": "08:00",
-    "homeTeam": "Select 2018",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT 2018",
     "awayTeam": "Sporting San Diego B2018 White",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -789,14 +1086,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2018",
+    "Flight": "3"
   },
   {
     "matchId": "28665",
     "date": "Saturday, October 11, 2025",
     "time": "08:00 PDT",
     "time24": "08:00",
-    "homeTeam": "Select CV 2014",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT CV 2014",
     "awayTeam": "Crusaders Soccer League B2014 Premier Garcia",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -807,7 +1107,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "4"
   },
   {
     "matchId": "2936",
@@ -815,7 +1118,7 @@
     "time": "09:00 PDT",
     "time24": "09:00",
     "homeTeam": "ALBION SC San Diego ALBION SC San Diego B17 Academy II",
-    "awayTeam": "Academy 2017",
+    "awayTeam": "ELI7E FC  ELI7E FC- ACADEMY 2017",
     "location": "ROBB FIELD - Field 3 (7v7)",
     "address": "2525 Bacon St, San Diego, CA 92107",
     "division": "B17 - Flight 3 SD South",
@@ -825,7 +1128,10 @@
     "coords": [
       32.7533409,
       -117.2452062
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2017",
+    "Flight": "3"
   },
   {
     "matchId": "7882",
@@ -833,7 +1139,7 @@
     "time": "09:00 PDT",
     "time24": "09:00",
     "homeTeam": "Crusaders Soccer League B2015 Elite Dirkes",
-    "awayTeam": "Select CV 2015",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT CV 2015",
     "location": "Allied Garden Recreation Center - Allied Gardens 9v9 #1",
     "address": "5155 Greenbrier Ave, San Diego, CA 92120",
     "division": "B15 - Flight 4 South SD",
@@ -843,14 +1149,17 @@
     "coords": [
       32.7957324,
       -117.0796344
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2015",
+    "Flight": "4"
   },
   {
     "matchId": "3619",
     "date": "Saturday, October 11, 2025",
     "time": "09:25 PDT",
     "time24": "09:25",
-    "homeTeam": "Legacy 2016",
+    "homeTeam": "ELI7E FC  ELI7E FC- LEGACY 2016",
     "awayTeam": "Legends FC - San Diego B16 FC",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 1 (9v9/7v7 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -861,14 +1170,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "1"
   },
   {
     "matchId": "2938",
     "date": "Saturday, October 11, 2025",
     "time": "09:25 PDT",
     "time24": "09:25",
-    "homeTeam": "Select CV 2017",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT CV 2017",
     "awayTeam": "Rebels San Diego B2017 Premier (Sevilla)",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 4 (7v7 north)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -879,14 +1191,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2017",
+    "Flight": "3"
   },
   {
     "matchId": "6814",
     "date": "Saturday, October 11, 2025",
     "time": "09:25 PDT",
     "time24": "09:25",
-    "homeTeam": "Legacy 2015",
+    "homeTeam": "ELI7E FC  ELI7E FC- LEGACY 2015",
     "awayTeam": "Rebels Soccer Club B15 Academy 1",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -897,14 +1212,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2015",
+    "Flight": "2"
   },
   {
     "matchId": "26612",
     "date": "Saturday, October 11, 2025",
     "time": "09:25 PDT",
     "time24": "09:25",
-    "homeTeam": "Pre Academy 2018G",
+    "homeTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY 2018G",
     "awayTeam": "Express Soccer G18 Premier Schiefer J",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -915,7 +1233,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2018",
+    "Flight": "3"
   },
   {
     "matchId": "1490",
@@ -923,24 +1244,27 @@
     "time": "10:50 PDT",
     "time24": "10:50",
     "homeTeam": "Chula Vista FC Chula Vista FC B2018 Guaje",
-    "awayTeam": "Select CV 2018",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT CV 2018",
     "location": "Terra Nova Park - Field 3 (7v7)",
-    "address": "4400 Terra Nova Dr, San Diego, CA 92111",
+    "address": "Terra Nova Park, Chula Vista, CA 91911",
     "division": "B18 - Flight 4 South SD",
     "coachName": "Bryan Durazo Ruiz",
     "isEli7eGame": true,
     "eli7eTeamName": "Select CV 2018",
     "coords": [
-      32.6440313,
-      -117.0393779
-    ]
+      32.644031,
+      -117.039377
+    ],
+    "Gender": "B",
+    "Year": "2018",
+    "Flight": "4"
   },
   {
     "matchId": "7887",
     "date": "Saturday, October 11, 2025",
     "time": "10:50 PDT",
     "time24": "10:50",
-    "homeTeam": "Select 2015",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT 2015",
     "awayTeam": "South Bay FC B-2015 Alfredo Sandoval",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -951,14 +1275,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2015",
+    "Flight": "4"
   },
   {
     "matchId": "17984",
     "date": "Saturday, October 11, 2025",
     "time": "10:50 PDT",
     "time24": "10:50",
-    "homeTeam": "Academy 2012",
+    "homeTeam": "ELI7E FC  ELI7E FC - ACADEMY 2012",
     "awayTeam": "Legends FC SD North B12 Black - EC",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 6 (11v11 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -969,14 +1296,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2012",
+    "Flight": "4"
   },
   {
     "matchId": "209",
     "date": "Saturday, October 11, 2025",
     "time": "10:50 PDT",
     "time24": "10:50",
-    "homeTeam": "Premier CV 2019",
+    "homeTeam": "ELI7E FC  ELI7E FC- PREMIER CV 2019",
     "awayTeam": "ALBION SC San Diego ALBION SC San Diego B19 Academy I",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -987,14 +1317,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2019",
+    "Flight": "4"
   },
   {
     "matchId": "5673",
     "date": "Saturday, October 11, 2025",
     "time": "10:50 PDT",
     "time24": "10:50",
-    "homeTeam": "Select CV 2016",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT CV 2016",
     "awayTeam": "Rebels Soccer Club B16 Rebels SC Coronado",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 4 (7v7 north)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1005,14 +1338,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "4"
   },
   {
     "matchId": "8539",
     "date": "Saturday, October 11, 2025",
     "time": "12:15 PDT",
     "time24": "12:15",
-    "homeTeam": "Legacy B2014",
+    "homeTeam": "ELI7E FC  ELI7E FC- LEGACY B2014",
     "awayTeam": "Rebels San Diego B2014 (Khouri)",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1023,14 +1359,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "1"
   },
   {
     "matchId": "5671",
     "date": "Saturday, October 11, 2025",
     "time": "12:15 PDT",
     "time24": "12:15",
-    "homeTeam": "Select 2016",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT 2016",
     "awayTeam": "United SoCal East County (SD) B2016",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 4 (7v7 north)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1041,14 +1380,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "4"
   },
   {
     "matchId": "267",
     "date": "Saturday, October 11, 2025",
     "time": "12:15 PDT",
     "time24": "12:15",
-    "homeTeam": "Select B2019",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT B2019",
     "awayTeam": "Coronado FC B2019 - Smith",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1059,7 +1401,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2019",
+    "Flight": "4"
   },
   {
     "matchId": "5284",
@@ -1067,24 +1412,27 @@
     "time": "12:15 PDT",
     "time24": "12:15",
     "homeTeam": "Rebels San Diego B2016 Premier (Dukes)",
-    "awayTeam": "Academy B2016",
+    "awayTeam": "ELI7E FC  ELI7E FC- ACADEMY B2016",
     "location": "Language Academy - Language Academy",
-    "address": "4961 64th St, San Diego, CA 92115",
+    "address": "Language Academy, San Diego, CA 92115",
     "division": "B16 - Flight 3 South SD",
     "coachName": "Flavio Mora Gomez",
     "isEli7eGame": true,
     "eli7eTeamName": "Academy B2016",
     "coords": [
-      32.7678612,
+      32.767861,
       -117.061894
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "3"
   },
   {
     "matchId": "14879",
     "date": "Saturday, October 11, 2025",
     "time": "12:25 PDT",
     "time24": "12:25",
-    "homeTeam": "Select 2013",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT 2013",
     "awayTeam": "City SC Chula Vista B2013 Griffin",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 6 (11v11 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1095,14 +1443,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2013",
+    "Flight": "3"
   },
   {
     "matchId": "24282",
     "date": "Saturday, October 11, 2025",
     "time": "13:40 PDT",
     "time24": "13:40",
-    "homeTeam": "Select 2016G",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT 2016G",
     "awayTeam": "Rebels Soccer Club G16 Premier 2",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 4 (7v7 north)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1113,14 +1464,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2016",
+    "Flight": "3"
   },
   {
     "matchId": "11398",
     "date": "Saturday, October 11, 2025",
     "time": "13:40 PDT",
     "time24": "13:40",
-    "homeTeam": "Academy 2014",
+    "homeTeam": "ELI7E FC  ELI7E FC- ACADEMY 2014",
     "awayTeam": "ALBION SC San Diego ALBION SC San Diego EC B14 Academy",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1131,14 +1485,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "3"
   },
   {
     "matchId": "269",
     "date": "Saturday, October 11, 2025",
     "time": "13:40 PDT",
     "time24": "13:40",
-    "homeTeam": "Pre Academy 2019",
+    "homeTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY 2019",
     "awayTeam": "ALBION SC San Diego ALBION SC San Diego B19 Academy",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1149,14 +1506,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2019",
+    "Flight": "4"
   },
   {
     "matchId": "17788",
     "date": "Saturday, October 11, 2025",
     "time": "14:00 PDT",
     "time24": "14:00",
-    "homeTeam": "Select 2013G",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT 2013G",
     "awayTeam": "Sporting San Diego G2013 White",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 6 (11v11 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1167,7 +1527,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2013",
+    "Flight": "3"
   },
   {
     "matchId": "25776",
@@ -1175,7 +1538,7 @@
     "time": "14:00 PDT",
     "time24": "14:00",
     "homeTeam": "FC Balboa G2017",
-    "awayTeam": "Select CV 2017G",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT CV 2017G",
     "location": "North Park Recreation Center (NPRC) - Field #2",
     "address": "4044 Idaho St, San Diego, CA 92104",
     "division": "G17 - Flight 3 South SD",
@@ -1185,14 +1548,17 @@
     "coords": [
       32.751318,
       -117.134225
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2017",
+    "Flight": "3"
   },
   {
     "matchId": "29287",
     "date": "Saturday, October 11, 2025",
     "time": "15:05 PDT",
     "time24": "15:05",
-    "homeTeam": "Select 2017G",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT 2017G",
     "awayTeam": "Rebels San Diego Rebels SD G2017 Premier (Perry)",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 4 (7v7 north)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1203,14 +1569,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2017",
+    "Flight": "4"
   },
   {
     "matchId": "3247",
     "date": "Saturday, October 11, 2025",
     "time": "15:05 PDT",
     "time24": "15:05",
-    "homeTeam": "Select 2017",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT 2017",
     "awayTeam": "Sporting San Diego B2017 White",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1221,14 +1590,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2017",
+    "Flight": "4"
   },
   {
     "matchId": "22794",
     "date": "Saturday, October 11, 2025",
     "time": "15:05 PDT",
     "time24": "15:05",
-    "homeTeam": "Academy 2015G",
+    "homeTeam": "ELI7E FC  ELI7E FC- ACADEMY 2015G",
     "awayTeam": "Crusaders Soccer League G2015 Elite Erdkamp",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1239,7 +1611,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2015",
+    "Flight": "3"
   },
   {
     "matchId": "7893",
@@ -1247,7 +1622,7 @@
     "time": "08:00 PDT",
     "time24": "08:00",
     "homeTeam": "Gremio Football Club (CA) Grêmio B2015 TS",
-    "awayTeam": "Select CV 2015",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT CV 2015",
     "location": "Taft Middle School - Field 1",
     "address": "9191 Gramercy Dr, San Diego, CA 92123",
     "division": "B15 - Flight 4 South SD",
@@ -1257,7 +1632,10 @@
     "coords": [
       32.80167,
       -117.129402
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2015",
+    "Flight": "4"
   },
   {
     "matchId": "11405",
@@ -1265,7 +1643,7 @@
     "time": "09:25 PDT",
     "time24": "09:25",
     "homeTeam": "Rebels Soccer Club B14 Premier",
-    "awayTeam": "Academy 2014",
+    "awayTeam": "ELI7E FC  ELI7E FC- ACADEMY 2014",
     "location": "Heritage Park (San Diego) - Field #1 (9v9)",
     "address": "2454 Heritage Park Row, San Diego, CA 92110",
     "division": "B14 - Flight 3 South SD",
@@ -1275,7 +1653,10 @@
     "coords": [
       32.7539857,
       -117.1928568
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "3"
   },
   {
     "matchId": "28430",
@@ -1283,17 +1664,20 @@
     "time": "09:45 PDT",
     "time24": "09:45",
     "homeTeam": "San Diego FORCE FC 2011 Girls Academy I",
-    "awayTeam": "Select G2011",
+    "awayTeam": "ELI7E FC  ELI7E FC- SELECT G2011",
     "location": "Del Norte High School - DNHS - Field 3 (Middle)",
-    "address": "16601 Nighthawk Ln, San Diego, CA 92127",
+    "address": "Del Norte High School, San Diego, CA 92127",
     "division": "G11 - Flight 4 SD",
     "coachName": "Mayra Corona",
     "isEli7eGame": true,
     "eli7eTeamName": "Select G2011",
     "coords": [
-      33.0140216,
-      -117.1224627
-    ]
+      33.014021,
+      -117.122462
+    ],
+    "Gender": "G",
+    "Year": "2011",
+    "Flight": "4"
   },
   {
     "matchId": "7890",
@@ -1301,7 +1685,7 @@
     "time": "11:25 PDT",
     "time24": "11:25",
     "homeTeam": "United SoCal East County (SD) B2015 White",
-    "awayTeam": "Select 2015",
+    "awayTeam": "ELI7E FC  ELI7E FC- SELECT 2015",
     "location": "Montgomery MS El Cajon - South 9v9",
     "address": "1570 Melody Ln, El Cajon, CA 92019",
     "division": "B15 - Flight 4 South SD",
@@ -1311,7 +1695,10 @@
     "coords": [
       32.7965579,
       -116.9251547
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2015",
+    "Flight": "4"
   },
   {
     "matchId": "28668",
@@ -1319,7 +1706,7 @@
     "time": "11:50 PDT",
     "time24": "11:50",
     "homeTeam": "South Bay FC B-2014 Sanchez Pepe",
-    "awayTeam": "Select CV 2014",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT CV 2014",
     "location": "Cesar Chavez Park - Field #2",
     "address": "1449 Cesar E. Chavez Pkwy, San Diego, CA 92101",
     "division": "B14 - Flight 4 South SD",
@@ -1329,7 +1716,10 @@
     "coords": [
       32.6957692,
       -117.1499374
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "4"
   },
   {
     "matchId": "6821",
@@ -1337,7 +1727,7 @@
     "time": "12:35 PDT",
     "time24": "12:35",
     "homeTeam": "Academia de Futbol Tigres Tigres San Diego B2015 Yellow F3",
-    "awayTeam": "Legacy 2015",
+    "awayTeam": "ELI7E FC  ELI7E FC- LEGACY 2015",
     "location": "Rosa Parks Joint Use - Field #1",
     "address": "4433 54th St, San Diego, CA 92115",
     "division": "B15 - Flight 2 South SD",
@@ -1347,14 +1737,38 @@
     "coords": [
       32.7582264,
       -117.0792686
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2015",
+    "Flight": "2"
+  },
+  {
+    "matchId": "8541",
+    "date": "Sunday, October 12, 2025",
+    "time": "13:25 PDT",
+    "time24": "13:25",
+    "homeTeam": "United SoCal South SD B2014",
+    "awayTeam": "ELI7E FC  ELI7E FC- LEGACY B2014",
+    "location": "Orange Park - 9 v 9",
+    "address": "Orange Park, Chula Vista, CA 91911",
+    "division": "B14 - Flight 1 South SD",
+    "coachName": "Eder Manjarrez",
+    "isEli7eGame": true,
+    "eli7eTeamName": "Legacy B2014",
+    "coords": [
+      32.6265,
+      -117.0585
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "1"
   },
   {
     "matchId": "21642",
     "date": "Sunday, October 12, 2025",
     "time": "13:45 PDT",
     "time24": "13:45",
-    "homeTeam": "Academy 2011",
+    "homeTeam": "ELI7E FC  ELI7E FC- ACADEMY 2011",
     "awayTeam": "South Bay FC B-2011 Hector Martinez",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 6 (11v11 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1365,14 +1779,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2011",
+    "Flight": "3"
   },
   {
     "matchId": "11683",
     "date": "Sunday, October 12, 2025",
     "time": "13:45 PDT",
     "time24": "13:45",
-    "homeTeam": "Premier 2014",
+    "homeTeam": "ELI7E FC  ELI7E FC- PREMIER 2014",
     "awayTeam": "Rayados Academy San Diego Rayados Academy B14 L.Dominguez",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1383,7 +1800,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "4"
   },
   {
     "matchId": "22798",
@@ -1391,7 +1811,7 @@
     "time": "14:00 PDT",
     "time24": "14:00",
     "homeTeam": "FC Balboa G2015",
-    "awayTeam": "Academy 2015G",
+    "awayTeam": "ELI7E FC  ELI7E FC- ACADEMY 2015G",
     "location": "North Park Recreation Center (NPRC) - Field #2",
     "address": "4044 Idaho St, San Diego, CA 92104",
     "division": "G15 - Flight 3 South SD",
@@ -1401,7 +1821,10 @@
     "coords": [
       32.751318,
       -117.134225
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2015",
+    "Flight": "3"
   },
   {
     "matchId": "17986",
@@ -1409,7 +1832,7 @@
     "time": "14:30 PDT",
     "time24": "14:30",
     "homeTeam": "Gremio Football Club (CA) Grêmio B2012 TS",
-    "awayTeam": "Academy 2012",
+    "awayTeam": "ELI7E FC  ELI7E FC - ACADEMY 2012",
     "location": "Tierrasanta Rec Center - TIERRASANTA REC CENTER #1 (7v7, 9v9 or 11v11)",
     "address": "11220 Clairemont Mesa Blvd, San Diego, CA 92124",
     "division": "B12 - Flight 4 SD",
@@ -1419,7 +1842,10 @@
     "coords": [
       32.8280217,
       -117.0837956
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2012",
+    "Flight": "4"
   },
   {
     "matchId": "14882",
@@ -1427,7 +1853,7 @@
     "time": "15:00 PDT",
     "time24": "15:00",
     "homeTeam": "Academia de Futbol Tigres Tigres San Diego B2013 Blue",
-    "awayTeam": "Select 2013",
+    "awayTeam": "ELI7E FC  ELI7E FC- SELECT 2013",
     "location": "Rosa Parks Joint Use - Field #2",
     "address": "4433 54th St, San Diego, CA 92115",
     "division": "B13 - Flight 3 South SD",
@@ -1437,14 +1863,17 @@
     "coords": [
       32.7582264,
       -117.0792686
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2013",
+    "Flight": "3"
   },
   {
     "matchId": "23230",
     "date": "Sunday, October 12, 2025",
     "time": "15:30 PDT",
     "time24": "15:30",
-    "homeTeam": "Academy 2010",
+    "homeTeam": "ELI7E FC  ELI7E FC- ACADEMY 2010",
     "awayTeam": "Rebels Central Rebels Central B2010 Gold",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 6 (11v11 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1455,14 +1884,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2010",
+    "Flight": "2"
   },
   {
     "matchId": "25781",
     "date": "Saturday, October 18, 2025",
     "time": "08:00 PDT",
     "time24": "08:00",
-    "homeTeam": "Select CV 2017G",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT CV 2017G",
     "awayTeam": "La Jolla Impact La Jolla Impact G2017 White",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1473,14 +1905,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2017",
+    "Flight": "3"
   },
   {
     "matchId": "28672",
     "date": "Saturday, October 18, 2025",
     "time": "08:00 PDT",
     "time24": "08:00",
-    "homeTeam": "Select CV 2014",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT CV 2014",
     "awayTeam": "FC Balboa B2014 White",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 1 (9v9/7v7 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1491,7 +1926,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "4"
   },
   {
     "matchId": "14888",
@@ -1499,7 +1937,7 @@
     "time": "08:00 PDT",
     "time24": "08:00",
     "homeTeam": "Rebels Soccer Club B13 Premier",
-    "awayTeam": "Select 2013",
+    "awayTeam": "ELI7E FC  ELI7E FC- SELECT 2013",
     "location": "Southwestern College - T-1 - Large Turf (11v11)",
     "address": "900 Otay Lakes Rd, Chula Vista, CA 91910",
     "division": "B13 - Flight 3 South SD",
@@ -1509,7 +1947,10 @@
     "coords": [
       32.6399476,
       -116.9980493
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2013",
+    "Flight": "3"
   },
   {
     "matchId": "3622",
@@ -1517,7 +1958,7 @@
     "time": "09:00 PDT",
     "time24": "09:00",
     "homeTeam": "ALBION SC San Diego ALBION SC San Diego B16 Academy''",
-    "awayTeam": "Legacy 2016",
+    "awayTeam": "ELI7E FC  ELI7E FC- LEGACY 2016",
     "location": "ROBB FIELD - Field 2 (7v7)",
     "address": "2525 Bacon St, San Diego, CA 92107",
     "division": "B16 - Flight 1 South SD",
@@ -1527,14 +1968,17 @@
     "coords": [
       32.7533409,
       -117.2452062
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "1"
   },
   {
     "matchId": "11409",
     "date": "Saturday, October 18, 2025",
     "time": "09:25 PDT",
     "time24": "09:25",
-    "homeTeam": "Academy 2014",
+    "homeTeam": "ELI7E FC  ELI7E FC- ACADEMY 2014",
     "awayTeam": "Coronado FC B2014 - Smith",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 1 (9v9/7v7 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1545,14 +1989,38 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "3"
+  },
+  {
+    "matchId": "26614",
+    "date": "Saturday, October 18, 2025",
+    "time": "09:25 PDT",
+    "time24": "09:25",
+    "homeTeam": "Sporting San Diego G2018 Black",
+    "awayTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY 2018G",
+    "location": "Los Coches Creek Middle School - Lower 7v7",
+    "address": "Los Coches Creek Middle School, El Cajon, CA 92021",
+    "division": "G18 - Flight 3 SD",
+    "coachName": "Emily Linares",
+    "isEli7eGame": true,
+    "eli7eTeamName": "Pre Academy 2018G",
+    "coords": [
+      32.8323,
+      -116.8887
+    ],
+    "Gender": "G",
+    "Year": "2018",
+    "Flight": "3"
   },
   {
     "matchId": "26765",
     "date": "Saturday, October 18, 2025",
     "time": "09:25 PDT",
     "time24": "09:25",
-    "homeTeam": "Pre Academy CV 2018G",
+    "homeTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY CV 2018G",
     "awayTeam": "Crusaders Soccer League G2018 Academy Serrano",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1563,14 +2031,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2018",
+    "Flight": "4"
   },
   {
     "matchId": "1495",
     "date": "Saturday, October 18, 2025",
     "time": "10:50 PDT",
     "time24": "10:50",
-    "homeTeam": "Select CV 2018",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT CV 2018",
     "awayTeam": "Rebels San Diego B2018 Premier (Sevilla I)",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1581,7 +2052,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2018",
+    "Flight": "4"
   },
   {
     "matchId": "24286",
@@ -1589,7 +2063,7 @@
     "time": "10:50 PDT",
     "time24": "10:50",
     "homeTeam": "Rebels Central Rebels Central G2016 Navy",
-    "awayTeam": "Select 2016G",
+    "awayTeam": "ELI7E FC  ELI7E FC- SELECT 2016G",
     "location": "Cubberley Elementary School - Field 1",
     "address": "3201 Marathon Dr, San Diego, CA 92123",
     "division": "G16 - Flight 3 South SD",
@@ -1599,14 +2073,17 @@
     "coords": [
       32.8019169,
       -117.1262534
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2016",
+    "Flight": "3"
   },
   {
     "matchId": "6825",
     "date": "Saturday, October 18, 2025",
     "time": "10:50 PDT",
     "time24": "10:50",
-    "homeTeam": "Legacy 2015",
+    "homeTeam": "ELI7E FC  ELI7E FC- LEGACY 2015",
     "awayTeam": "Chula Vista FC Chula Vista FC B2015 Guaje",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 1 (9v9/7v7 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1617,7 +2094,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2015",
+    "Flight": "2"
   },
   {
     "matchId": "2942",
@@ -1625,7 +2105,7 @@
     "time": "10:50 PDT",
     "time24": "10:50",
     "homeTeam": "Rebels Soccer Club B17 Academy 2",
-    "awayTeam": "Select CV 2017",
+    "awayTeam": "ELI7E FC  ELI7E FC- SELECT CV 2017",
     "location": "Cottonwood Park - Field #2 - Back (7v7)",
     "address": "1778 E Palomar St, Chula Vista, CA 91913",
     "division": "B17 - Flight 3 SD South",
@@ -1635,7 +2115,10 @@
     "coords": [
       32.6315748,
       -116.9832965
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2017",
+    "Flight": "3"
   },
   {
     "matchId": "11686",
@@ -1643,7 +2126,7 @@
     "time": "11:50 PDT",
     "time24": "11:50",
     "homeTeam": "South Bay FC B-2014 Jorge Felix",
-    "awayTeam": "Premier 2014",
+    "awayTeam": "ELI7E FC  ELI7E FC- PREMIER 2014",
     "location": "Cesar Chavez Park - Field #2",
     "address": "1449 Cesar E. Chavez Pkwy, San Diego, CA 92101",
     "division": "B14 - Flight 4 Central II SD",
@@ -1653,7 +2136,10 @@
     "coords": [
       32.6957692,
       -117.1499374
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "4"
   },
   {
     "matchId": "5290",
@@ -1661,9 +2147,9 @@
     "time": "11:50 PDT",
     "time24": "11:50",
     "homeTeam": "South Bay FC B2016 Arturo Herrera",
-    "awayTeam": "Academy B2016",
+    "awayTeam": "ELI7E FC  ELI7E FC- ACADEMY B2016",
     "location": "Cesar Solis Comm. Park - Field #1",
-    "address": "4901 Del Sol Blvd, San Diego, CA 92154",
+    "address": "Cesar Solis Community Park, San Diego, CA 92154",
     "division": "B16 - Flight 3 South SD",
     "coachName": "Flavio Mora Gomez",
     "isEli7eGame": true,
@@ -1671,14 +2157,17 @@
     "coords": [
       32.571985,
       -117.026126
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "3"
   },
   {
     "matchId": "7896",
     "date": "Saturday, October 18, 2025",
     "time": "12:15 PDT",
     "time24": "12:15",
-    "homeTeam": "Select 2015",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT 2015",
     "awayTeam": "Coronado FC B2015G - Rojas",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 1 (9v9/7v7 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1689,7 +2178,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2015",
+    "Flight": "4"
   },
   {
     "matchId": "3250",
@@ -1697,24 +2189,27 @@
     "time": "12:15 PDT",
     "time24": "12:15",
     "homeTeam": "Chula Vista FC Chula Vista FC B2017 Guaje",
-    "awayTeam": "Select 2017",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT 2017",
     "location": "Terra Nova Park - Field 3 (7v7)",
-    "address": "4400 Terra Nova Dr, San Diego, CA 92111",
+    "address": "Terra Nova Park, Chula Vista, CA 91911",
     "division": " B17 - Flight 4 South II SD ",
     "coachName": "Jose Gomez",
     "isEli7eGame": true,
     "eli7eTeamName": "Select 2017",
     "coords": [
-      32.6440313,
-      -117.0393779
-    ]
+      32.644031,
+      -117.039377
+    ],
+    "Gender": "B",
+    "Year": "2017",
+    "Flight": "4"
   },
   {
     "matchId": "272",
     "date": "Saturday, October 18, 2025",
     "time": "12:15 PDT",
     "time24": "12:15",
-    "homeTeam": "Pre Academy 2019",
+    "homeTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY 2019",
     "awayTeam": "South Bay FC B-2019 Ramon Lopez",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1725,7 +2220,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2019",
+    "Flight": "4"
   },
   {
     "matchId": "5676",
@@ -1733,7 +2231,7 @@
     "time": "12:15 PDT",
     "time24": "12:15",
     "homeTeam": "Rebels San Diego B2016 Premier (Chavez)",
-    "awayTeam": "Select CV 2016",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT CV 2016",
     "location": "Naranca Elementary School - Naranca 7v7",
     "address": "1030 Naranca Ave, El Cajon, CA 92021",
     "division": "B16 - Flight 4 South SD",
@@ -1743,7 +2241,10 @@
     "coords": [
       32.8040181,
       -116.9475276
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "4"
   },
   {
     "matchId": "5608",
@@ -1751,7 +2252,7 @@
     "time": "13:15 PDT",
     "time24": "13:15",
     "homeTeam": "ALBION SC San Diego ALBION SC San Diego B16 Academy III",
-    "awayTeam": "Premier 2016",
+    "awayTeam": "ELI7E FC  ELI7E FC- PREMIER 2016",
     "location": "ROBB FIELD - Field 2 (7v7)",
     "address": "2525 Bacon St, San Diego, CA 92107",
     "division": "B16 - Flight 4 SD Central II",
@@ -1761,14 +2262,17 @@
     "coords": [
       32.7533409,
       -117.2452062
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "4"
   },
   {
     "matchId": "22802",
     "date": "Saturday, October 18, 2025",
     "time": "13:40 PDT",
     "time24": "13:40",
-    "homeTeam": "Academy 2015G",
+    "homeTeam": "ELI7E FC  ELI7E FC- ACADEMY 2015G",
     "awayTeam": "Nido Aguila San Diego Nido Aguila SD G2015 Martinez F3",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 1 (9v9/7v7 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1779,14 +2283,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2015",
+    "Flight": "3"
   },
   {
     "matchId": "2941",
     "date": "Saturday, October 18, 2025",
     "time": "13:40 PDT",
     "time24": "13:40",
-    "homeTeam": "Academy 2017",
+    "homeTeam": "ELI7E FC  ELI7E FC- ACADEMY 2017",
     "awayTeam": "Chula Vista FC Chula Vista FC B2017 Villa",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1797,7 +2304,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2017",
+    "Flight": "3"
   },
   {
     "matchId": "270",
@@ -1805,17 +2315,20 @@
     "time": "13:40 PDT",
     "time24": "13:40",
     "homeTeam": "Chula Vista FC Chula Vista FC B2019 Villa",
-    "awayTeam": "Select B2019",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT B2019",
     "location": "Terra Nova Park - Field 3 (7v7)",
-    "address": "4400 Terra Nova Dr, San Diego, CA 92111",
+    "address": "Terra Nova Park, Chula Vista, CA 91911",
     "division": "B19 - Flight 4 South SD ",
     "coachName": "Jorge Munoz",
     "isEli7eGame": true,
     "eli7eTeamName": "Select B2019",
     "coords": [
-      32.6440313,
-      -117.0393779
-    ]
+      32.644031,
+      -117.039377
+    ],
+    "Gender": "B",
+    "Year": "2019",
+    "Flight": "4"
   },
   {
     "matchId": "29291",
@@ -1823,9 +2336,9 @@
     "time": "14:40 PDT",
     "time24": "14:40",
     "homeTeam": "South Bay FC G-2017 Ramon Lopez",
-    "awayTeam": "Select 2017G",
+    "awayTeam": "ELI7E FC  ELI7E FC- SELECT 2017G",
     "location": "Cesar Solis Comm. Park - Field #1",
-    "address": "4901 Del Sol Blvd, San Diego, CA 92154",
+    "address": "Cesar Solis Community Park, San Diego, CA 92154",
     "division": "G17 - Flight 4 South SD",
     "coachName": "Kelly Lazzara",
     "isEli7eGame": true,
@@ -1833,14 +2346,38 @@
     "coords": [
       32.571985,
       -117.026126
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2017",
+    "Flight": "4"
+  },
+  {
+    "matchId": "23460",
+    "date": "Saturday, October 18, 2025",
+    "time": "15:05 PDT",
+    "time24": "15:05",
+    "homeTeam": "SDSC Surf 16G Blue",
+    "awayTeam": "ELI7E FC  ELI7E FC - LEGACY 2016G",
+    "location": "4S Ranch Sports Park - 4S 6A",
+    "address": "4S Ranch Sports Park, San Diego, CA 92127",
+    "division": "G16 - Flight 1 SD",
+    "coachName": "Jose Gomez",
+    "isEli7eGame": true,
+    "eli7eTeamName": "Legacy 2016G",
+    "coords": [
+      33.004394,
+      -117.119511
+    ],
+    "Gender": "G",
+    "Year": "2016",
+    "Flight": "1"
   },
   {
     "matchId": "17797",
     "date": "Saturday, October 18, 2025",
     "time": "15:05 PDT",
     "time24": "15:05",
-    "homeTeam": "Select 2013G",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT 2013G",
     "awayTeam": "San Diego Surf Soccer Club SD Surf South G2013 White (Alesia)",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 6 (11v11 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -1851,7 +2388,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2013",
+    "Flight": "3"
   },
   {
     "matchId": "8550",
@@ -1859,7 +2399,7 @@
     "time": "15:35 PDT",
     "time24": "15:35",
     "homeTeam": "Academia de Futbol Tigres Tigres San Diego Pre-NPL B2014",
-    "awayTeam": "Legacy B2014",
+    "awayTeam": "ELI7E FC  ELI7E FC- LEGACY B2014",
     "location": "Rosa Parks Joint Use - Field #2",
     "address": "4433 54th St, San Diego, CA 92115",
     "division": "B14 - Flight 1 South SD",
@@ -1869,7 +2409,10 @@
     "coords": [
       32.7582264,
       -117.0792686
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "1"
   },
   {
     "matchId": "274",
@@ -1877,17 +2420,20 @@
     "time": "08:00 PDT",
     "time24": "08:00",
     "homeTeam": "Chula Vista FC Chula Vista FC B2019 Villa",
-    "awayTeam": "Pre Academy 2019",
+    "awayTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY 2019",
     "location": "Terra Nova Park - Field 3 (7v7)",
-    "address": "4400 Terra Nova Dr, San Diego, CA 92111",
+    "address": "Terra Nova Park, Chula Vista, CA 91911",
     "division": "B19 - Flight 4 South SD ",
     "coachName": "Angel Zazueta",
     "isEli7eGame": true,
     "eli7eTeamName": "Pre Academy 2019",
     "coords": [
-      32.6440313,
-      -117.0393779
-    ]
+      32.644031,
+      -117.039377
+    ],
+    "Gender": "B",
+    "Year": "2019",
+    "Flight": "4"
   },
   {
     "matchId": "25784",
@@ -1895,17 +2441,20 @@
     "time": "08:00 PDT",
     "time24": "08:00",
     "homeTeam": "Rebels San Diego G2017 Academy (Erpelding)",
-    "awayTeam": "Select CV 2017G",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT CV 2017G",
     "location": "Language Academy - Language Academy",
-    "address": "4961 64th St, San Diego, CA 92115",
+    "address": "Language Academy, San Diego, CA 92115",
     "division": "G17 - Flight 3 South SD",
     "coachName": "Robert Casas",
     "isEli7eGame": true,
     "eli7eTeamName": "Select CV 2017G",
     "coords": [
-      32.7678612,
+      32.767861,
       -117.061894
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2017",
+    "Flight": "3"
   },
   {
     "matchId": "21646",
@@ -1913,7 +2462,7 @@
     "time": "09:00 PDT",
     "time24": "09:00",
     "homeTeam": "San Diego Motion FC B2011",
-    "awayTeam": "Academy 2011",
+    "awayTeam": "ELI7E FC  ELI7E FC- ACADEMY 2011",
     "location": "Cherokee Joint Use Field - Field #1",
     "address": "3735 38th St, San Diego, CA 92105",
     "division": "B11 - Flight 3 Central SD",
@@ -1923,7 +2472,10 @@
     "coords": [
       32.7471324,
       -117.1117992
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2011",
+    "Flight": "3"
   },
   {
     "matchId": "276",
@@ -1931,9 +2483,9 @@
     "time": "09:30 PDT",
     "time24": "09:30",
     "homeTeam": "South Bay FC B-2019 Ramon Lopez",
-    "awayTeam": "Select B2019",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT B2019",
     "location": "Cesar Solis Comm. Park - Field #1",
-    "address": "4901 Del Sol Blvd, San Diego, CA 92154",
+    "address": "Cesar Solis Community Park, San Diego, CA 92154",
     "division": "B19 - Flight 4 South SD ",
     "coachName": "Jorge Munoz",
     "isEli7eGame": true,
@@ -1941,7 +2493,10 @@
     "coords": [
       32.571985,
       -117.026126
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2019",
+    "Flight": "4"
   },
   {
     "matchId": "5680",
@@ -1949,7 +2504,7 @@
     "time": "10:25 PDT",
     "time24": "10:25",
     "homeTeam": "Crusaders Soccer League B2016 Elite Melendez",
-    "awayTeam": "Select 2016",
+    "awayTeam": "ELI7E FC  ELI7E FC- SELECT 2016",
     "location": "Allied Garden Recreation Center - Allied Gardens 7 v 7 #1",
     "address": "5155 Greenbrier Ave, San Diego, CA 92120",
     "division": "B16 - Flight 4 South SD",
@@ -1959,7 +2514,10 @@
     "coords": [
       32.7957324,
       -117.0796344
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "4"
   },
   {
     "matchId": "23232",
@@ -1967,7 +2525,7 @@
     "time": "10:55 PDT",
     "time24": "10:55",
     "homeTeam": "ALBION SC San Diego ALBION SC San Diego CS B10 Academy",
-    "awayTeam": "Academy 2010",
+    "awayTeam": "ELI7E FC  ELI7E FC- ACADEMY 2010",
     "location": "Hickman Field - Hickman Field #1",
     "address": "5100 Hickman Field Dr, San Diego, CA 92111",
     "division": "B10 - Flight 2 South SD",
@@ -1977,7 +2535,10 @@
     "coords": [
       32.8348268,
       -117.168213
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2010",
+    "Flight": "2"
   },
   {
     "matchId": "26771",
@@ -1985,24 +2546,27 @@
     "time": "12:15 PDT",
     "time24": "12:15",
     "homeTeam": "Chula Vista FC Chula Vista FC G2018-19 Villa",
-    "awayTeam": "Pre Academy CV 2018G",
+    "awayTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY CV 2018G",
     "location": "Terra Nova Park - Field 3 (7v7)",
-    "address": "4400 Terra Nova Dr, San Diego, CA 92111",
+    "address": "Terra Nova Park, Chula Vista, CA 91911",
     "division": "G18 - Flight 4 South SD",
     "coachName": "Luis Maprigat",
     "isEli7eGame": true,
     "eli7eTeamName": "Pre Academy CV 2018G",
     "coords": [
-      32.6440313,
-      -117.0393779
-    ]
+      32.644031,
+      -117.039377
+    ],
+    "Gender": "G",
+    "Year": "2018",
+    "Flight": "4"
   },
   {
     "matchId": "3254",
     "date": "Sunday, October 19, 2025",
     "time": "13:55 PDT",
     "time24": "13:55",
-    "homeTeam": "Select 2017",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT 2017",
     "awayTeam": "Coronado FC B2017 - Pangan",
     "location": "ELI7E Turf Campus- La Presa - Field 4",
     "address": "9015 N Bonita St, Spring Valley, CA 91977",
@@ -2013,14 +2577,17 @@
     "coords": [
       32.7510024,
       -116.983302
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2017",
+    "Flight": "4"
   },
   {
     "matchId": "24293",
     "date": "Sunday, October 19, 2025",
     "time": "14:00 PDT",
     "time24": "14:00",
-    "homeTeam": "Select 2016G",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT 2016G",
     "awayTeam": "Legends FC - San Diego G16 FC",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2031,14 +2598,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2016",
+    "Flight": "3"
   },
   {
     "matchId": "1122",
     "date": "Sunday, October 19, 2025",
     "time": "14:00 PDT",
     "time24": "14:00",
-    "homeTeam": "Select 2018",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT 2018",
     "awayTeam": "FYSL Fallbrook Villa FC B2018",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 4 (7v7 north)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2049,14 +2619,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2018",
+    "Flight": "3"
   },
   {
     "matchId": "26616",
     "date": "Sunday, October 19, 2025",
     "time": "14:00 PDT",
     "time24": "14:00",
-    "homeTeam": "Pre Academy 2018G",
+    "homeTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY 2018G",
     "awayTeam": "San Diego FORCE FC 2018 Girls Academy",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2067,14 +2640,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2018",
+    "Flight": "3"
   },
   {
     "matchId": "23463",
     "date": "Sunday, October 19, 2025",
     "time": "14:00 PDT",
     "time24": "14:00",
-    "homeTeam": "Legacy 2016G",
+    "homeTeam": "ELI7E FC  ELI7E FC - LEGACY 2016G",
     "awayTeam": "San Diego Surf Soccer Club SD Surf Academy Girls 2016 (Guy)",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 1 (9v9/7v7 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2085,14 +2661,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2016",
+    "Flight": "1"
   },
   {
     "matchId": "2945",
     "date": "Sunday, October 19, 2025",
     "time": "15:20 PDT",
     "time24": "15:20",
-    "homeTeam": "Academy 2017",
+    "homeTeam": "ELI7E FC  ELI7E FC- ACADEMY 2017",
     "awayTeam": "Golden Eagles FC B2017",
     "location": "ELI7E Turf Campus- La Presa - Field 4",
     "address": "9015 N Bonita St, Spring Valley, CA 91977",
@@ -2103,14 +2682,17 @@
     "coords": [
       32.7510024,
       -116.983302
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2017",
+    "Flight": "3"
   },
   {
     "matchId": "222",
     "date": "Sunday, October 19, 2025",
     "time": "15:25 PDT",
     "time24": "15:25",
-    "homeTeam": "Premier CV 2019",
+    "homeTeam": "ELI7E FC  ELI7E FC- PREMIER CV 2019",
     "awayTeam": "San Diego FORCE FC 2019 Boys Academy I",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2121,14 +2703,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2019",
+    "Flight": "4"
   },
   {
     "matchId": "5682",
     "date": "Sunday, October 19, 2025",
     "time": "15:25 PDT",
     "time24": "15:25",
-    "homeTeam": "Select CV 2016",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT CV 2016",
     "awayTeam": "Rebels Soccer Club B16 Premier 2",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 1 (9v9/7v7 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2139,14 +2724,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "4"
   },
   {
     "matchId": "3626",
     "date": "Sunday, October 19, 2025",
     "time": "15:25 PDT",
     "time24": "15:25",
-    "homeTeam": "Legacy 2016",
+    "homeTeam": "ELI7E FC  ELI7E FC- LEGACY 2016",
     "awayTeam": "Rebels San Diego B2016 Elite (Alonso II)",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2157,14 +2745,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "1"
   },
   {
     "matchId": "1499",
     "date": "Sunday, October 19, 2025",
     "time": "15:25 PDT",
     "time24": "15:25",
-    "homeTeam": "Select CV 2018",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT CV 2018",
     "awayTeam": "Crusaders Soccer League B2018 Academy Serrano",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 4 (7v7 north)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2175,14 +2766,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2018",
+    "Flight": "4"
   },
   {
     "matchId": "28432",
     "date": "Sunday, October 19, 2025",
     "time": "16:45 PDT",
     "time24": "16:45",
-    "homeTeam": "Select G2011",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT G2011",
     "awayTeam": "Legends FC SD DM G11 Gold",
     "location": "ELI7E Turf Campus- La Presa - Field 5",
     "address": "9015 N Bonita St, Spring Valley, CA 91977",
@@ -2193,14 +2787,17 @@
     "coords": [
       32.7510024,
       -116.983302
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2011",
+    "Flight": "4"
   },
   {
     "matchId": "5612",
     "date": "Sunday, October 19, 2025",
     "time": "16:50 PDT",
     "time24": "16:50",
-    "homeTeam": "Premier 2016",
+    "homeTeam": "ELI7E FC  ELI7E FC- PREMIER 2016",
     "awayTeam": "Legends FC SD North B16 White - EC",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 1 (9v9/7v7 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2211,14 +2808,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "4"
   },
   {
     "matchId": "2946",
     "date": "Sunday, October 19, 2025",
     "time": "16:50 PDT",
     "time24": "16:50",
-    "homeTeam": "Select CV 2017",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT CV 2017",
     "awayTeam": "City SC Chula Vista B2017 Martinez",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2229,14 +2829,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2017",
+    "Flight": "3"
   },
   {
     "matchId": "5296",
     "date": "Sunday, October 19, 2025",
     "time": "16:50 PDT",
     "time24": "16:50",
-    "homeTeam": "Academy B2016",
+    "homeTeam": "ELI7E FC  ELI7E FC- ACADEMY B2016",
     "awayTeam": "Chula Vista FC Chula Vista FC B2016 Guaje",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2247,14 +2850,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "3"
   },
   {
     "matchId": "29295",
     "date": "Sunday, October 19, 2025",
     "time": "16:50 PDT",
     "time24": "16:50",
-    "homeTeam": "Select 2017G",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT 2017G",
     "awayTeam": "Coronado FC G2017 - Friedman",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 4 (7v7 north)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2265,14 +2871,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2017",
+    "Flight": "4"
   },
   {
     "matchId": "21653",
     "date": "Saturday, October 25, 2025",
     "time": "08:00 PDT",
     "time24": "08:00",
-    "homeTeam": "Academy 2011",
+    "homeTeam": "ELI7E FC  ELI7E FC- ACADEMY 2011",
     "awayTeam": "Rebels Central Rebels Central B2011 Gold",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 6 (11v11 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2283,14 +2892,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2011",
+    "Flight": "3"
   },
   {
     "matchId": "26774",
     "date": "Saturday, October 25, 2025",
     "time": "08:00 PDT",
     "time24": "08:00",
-    "homeTeam": "Pre Academy CV 2018G",
+    "homeTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY CV 2018G",
     "awayTeam": "ALBION SC San Diego ALBION SC San Diego G18 Academy",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2301,14 +2913,38 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2018",
+    "Flight": "4"
+  },
+  {
+    "matchId": "278",
+    "date": "Saturday, October 25, 2025",
+    "time": "08:00 PDT",
+    "time24": "08:00",
+    "homeTeam": "Coronado FC B2019 - Smith",
+    "awayTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY 2019",
+    "location": "Coronado Cays Park - Field 1A - 7v7",
+    "address": "Coronado Cays Park, Coronado, CA 92118",
+    "division": "B19 - Flight 4 South SD ",
+    "coachName": "Angel Zazueta",
+    "isEli7eGame": true,
+    "eli7eTeamName": "Pre Academy 2019",
+    "coords": [
+      32.622283,
+      -117.135635
+    ],
+    "Gender": "B",
+    "Year": "2019",
+    "Flight": "4"
   },
   {
     "matchId": "24298",
     "date": "Saturday, October 25, 2025",
     "time": "08:00 PDT",
     "time24": "08:00",
-    "homeTeam": "Select 2016G",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT 2016G",
     "awayTeam": "Legends FC - San Diego G16 FC",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2319,7 +2955,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2016",
+    "Flight": "3"
   },
   {
     "matchId": "26621",
@@ -2327,7 +2966,7 @@
     "time": "08:30 PDT",
     "time24": "08:30",
     "homeTeam": "RSF Attack G18 Green",
-    "awayTeam": "Pre Academy 2018G",
+    "awayTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY 2018G",
     "location": "Cardiff Elementary School - Cardiff Elementary #2",
     "address": "1888 Montgomery Ave, Cardiff, CA 92007",
     "division": "G18 - Flight 3 SD",
@@ -2337,14 +2976,17 @@
     "coords": [
       33.0254487,
       -117.2826359
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2018",
+    "Flight": "3"
   },
   {
     "matchId": "5687",
     "date": "Saturday, October 25, 2025",
     "time": "09:25 PDT",
     "time24": "09:25",
-    "homeTeam": "Select CV 2016",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT CV 2016",
     "awayTeam": "FC Balboa B2016",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2355,14 +2997,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "4"
   },
   {
     "matchId": "279",
     "date": "Saturday, October 25, 2025",
     "time": "09:25 PDT",
     "time24": "09:25",
-    "homeTeam": "Select B2019",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT B2019",
     "awayTeam": "ALBION SC San Diego ALBION SC San Diego B19 Academy",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2373,14 +3018,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2019",
+    "Flight": "4"
   },
   {
     "matchId": "23236",
     "date": "Saturday, October 25, 2025",
     "time": "09:45 PDT",
     "time24": "09:45",
-    "homeTeam": "Academy 2010",
+    "homeTeam": "ELI7E FC  ELI7E FC- ACADEMY 2010",
     "awayTeam": "Rayados Academy San Diego Rayados Academy B10 E.Agundez",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 6 (11v11 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2391,7 +3039,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2010",
+    "Flight": "2"
   },
   {
     "matchId": "228",
@@ -2399,7 +3050,7 @@
     "time": "09:55 PDT",
     "time24": "09:55",
     "homeTeam": "Tiffiny's Soccer Club B2019 - Maldonado",
-    "awayTeam": "Premier CV 2019",
+    "awayTeam": "ELI7E FC  ELI7E FC- PREMIER CV 2019",
     "location": "Luz Duran Park - Field 2",
     "address": "340 E Townsite Dr, Vista, CA 92084",
     "division": "B19 - Flight 4 Central SD",
@@ -2409,7 +3060,10 @@
     "coords": [
       33.2093436,
       -117.2347261
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2019",
+    "Flight": "4"
   },
   {
     "matchId": "1128",
@@ -2417,7 +3071,7 @@
     "time": "10:25 PDT",
     "time24": "10:25",
     "homeTeam": "ALBION SC San Diego ALBION SC San Diego EC B18 Academy I",
-    "awayTeam": "Select 2018",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT 2018",
     "location": "WD Hall Elementary - Field 1 7v7/9v9",
     "address": "1000 E Chase Ave, El Cajon, CA 92020",
     "division": "B18 - Flight 3 SD",
@@ -2427,15 +3081,18 @@
     "coords": [
       32.780477,
       -116.9481
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2018",
+    "Flight": "3"
   },
   {
     "matchId": "2950",
     "date": "Saturday, October 25, 2025",
     "time": "10:50 PDT",
     "time24": "10:50",
-    "homeTeam": "Select CV 2017",
-    "awayTeam": "Select CV 2017",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT CV 2017",
+    "awayTeam": "ELI7E FC  ELI7E FC- ACADEMY 2017",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
     "division": "B17 - Flight 3 SD South",
@@ -2445,14 +3102,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2017",
+    "Flight": "3"
   },
   {
     "matchId": "5690",
     "date": "Saturday, October 25, 2025",
     "time": "10:50 PDT",
     "time24": "10:50",
-    "homeTeam": "Select 2016",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT 2016",
     "awayTeam": "United SoCal South SD B2016",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2463,14 +3123,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "4"
   },
   {
     "matchId": "14891",
     "date": "Saturday, October 25, 2025",
     "time": "11:30 PDT",
     "time24": "11:30",
-    "homeTeam": "Select 2013",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT 2013",
     "awayTeam": "San Diego Motion FC B2013",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 6 (11v11 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2481,14 +3144,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2013",
+    "Flight": "3"
   },
   {
     "matchId": "29299",
     "date": "Saturday, October 25, 2025",
     "time": "12:15 PDT",
     "time24": "12:15",
-    "homeTeam": "Select 2017G",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT 2017G",
     "awayTeam": "Crusaders Soccer League G2017 Academy Meneses",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2499,14 +3165,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2017",
+    "Flight": "4"
   },
   {
     "matchId": "23468",
     "date": "Saturday, October 25, 2025",
     "time": "12:15 PDT",
     "time24": "12:15",
-    "homeTeam": "Legacy 2016G",
+    "homeTeam": "ELI7E FC  ELI7E FC - LEGACY 2016G",
     "awayTeam": "San Diego Surf Soccer Club SD Surf Academy Girls 2016 (Guy)",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2517,14 +3186,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2016",
+    "Flight": "1"
   },
   {
     "matchId": "29512",
     "date": "Saturday, October 25, 2025",
     "time": "13:40 PDT",
     "time24": "13:40",
-    "homeTeam": "Select CV 2014",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT CV 2014",
     "awayTeam": "Olympicos Soccer Club Olympicos SC B-2014",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2535,7 +3207,31 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "4"
+  },
+  {
+    "matchId": "5306",
+    "date": "Saturday, October 25, 2025",
+    "time": "13:40 PDT",
+    "time24": "13:40",
+    "homeTeam": "Sporting San Diego B2016 White",
+    "awayTeam": "ELI7E FC  ELI7E FC- ACADEMY B2016",
+    "location": "Los Coches Creek Middle School - Lower 7v7",
+    "address": "Los Coches Creek Middle School, El Cajon, CA 92021",
+    "division": "B16 - Flight 3 South SD",
+    "coachName": "Flavio Mora Gomez",
+    "isEli7eGame": true,
+    "eli7eTeamName": "Academy B2016",
+    "coords": [
+      32.8323,
+      -116.8887
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "3"
   },
   {
     "matchId": "3630",
@@ -2543,7 +3239,7 @@
     "time": "14:10 PDT",
     "time24": "14:10",
     "homeTeam": "City SC Carlsbad B16 Pre MLS Next II - Conteville",
-    "awayTeam": "Legacy 2016",
+    "awayTeam": "ELI7E FC  ELI7E FC- LEGACY 2016",
     "location": "Pine Avenue Park - #7 7v7",
     "address": "3209 Harding St, Carlsbad, CA 92008",
     "division": "B16 - Flight 1 South SD",
@@ -2553,7 +3249,10 @@
     "coords": [
       33.1595516,
       -117.3427583
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "1"
   },
   {
     "matchId": "8555",
@@ -2561,7 +3260,7 @@
     "time": "11:20 PDT",
     "time24": "11:20",
     "homeTeam": "Academia de Futbol Tigres Tigres San Diego Pre-NPL B2014",
-    "awayTeam": "Legacy B2014",
+    "awayTeam": "ELI7E FC  ELI7E FC- LEGACY B2014",
     "location": "Rosa Parks Joint Use - Field #2",
     "address": "4433 54th St, San Diego, CA 92115",
     "division": "B14 - Flight 1 South SD",
@@ -2571,7 +3270,10 @@
     "coords": [
       32.7582264,
       -117.0792686
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "1"
   },
   {
     "matchId": "11688",
@@ -2579,7 +3281,7 @@
     "time": "13:00 PDT",
     "time24": "13:00",
     "homeTeam": "United SoCal San Diego B2014",
-    "awayTeam": "Premier 2014",
+    "awayTeam": "ELI7E FC  ELI7E FC- PREMIER 2014",
     "location": "Wangenheim Middle School - Field 3 9v9",
     "address": "9230 Gold Coast Dr, San Diego, CA 92126",
     "division": "B14 - Flight 4 Central II SD",
@@ -2589,14 +3291,17 @@
     "coords": [
       32.9077397,
       -117.1255224
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "4"
   },
   {
     "matchId": "11414",
     "date": "Sunday, October 26, 2025",
     "time": "13:30 PDT",
     "time24": "13:30",
-    "homeTeam": "Academy 2014",
+    "homeTeam": "ELI7E FC  ELI7E FC- ACADEMY 2014",
     "awayTeam": "ALBION SC San Diego ALBION SC San Diego CV B14 Academy",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 1 (9v9/7v7 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2607,14 +3312,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "3"
   },
   {
     "matchId": "6830",
     "date": "Sunday, October 26, 2025",
     "time": "13:30 PDT",
     "time24": "13:30",
-    "homeTeam": "Legacy 2015",
+    "homeTeam": "ELI7E FC  ELI7E FC- LEGACY 2015",
     "awayTeam": "City SC Chula Vista B2015 Caithness",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2625,14 +3333,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2015",
+    "Flight": "2"
   },
   {
     "matchId": "7901",
     "date": "Sunday, October 26, 2025",
     "time": "14:55 PDT",
     "time24": "14:55",
-    "homeTeam": "Select 2015",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT 2015",
     "awayTeam": "Crusaders Soccer League B2015 Premier Gonzalez",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2643,14 +3354,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2015",
+    "Flight": "4"
   },
   {
     "matchId": "22806",
     "date": "Sunday, October 26, 2025",
     "time": "14:55 PDT",
     "time24": "14:55",
-    "homeTeam": "Academy 2015G",
+    "homeTeam": "ELI7E FC  ELI7E FC- ACADEMY 2015G",
     "awayTeam": "Rebels Soccer Club G15 Academy",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 1 (9v9/7v7 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2661,14 +3375,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2015",
+    "Flight": "3"
   },
   {
     "matchId": "28435",
     "date": "Sunday, October 26, 2025",
     "time": "16:20 PDT",
     "time24": "16:20",
-    "homeTeam": "Select G2011",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT G2011",
     "awayTeam": "Crusaders Soccer League G2011/12 Academy Ortiz",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 6 (11v11 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2679,14 +3396,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2011",
+    "Flight": "4"
   },
   {
     "matchId": "7905",
     "date": "Sunday, October 26, 2025",
     "time": "16:20 PDT",
     "time24": "16:20",
-    "homeTeam": "Select CV 2015",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT CV 2015",
     "awayTeam": "South Bay FC B-2015 Alfredo Sandoval",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2697,7 +3417,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2015",
+    "Flight": "4"
   },
   {
     "matchId": "5695",
@@ -2705,7 +3428,7 @@
     "time": "08:00 PDT",
     "time24": "08:00",
     "homeTeam": "Rebels San Diego B2016 Premier (Chavez)",
-    "awayTeam": "Select 2016",
+    "awayTeam": "ELI7E FC  ELI7E FC- SELECT 2016",
     "location": "Cubberley Elementary School - Field 1",
     "address": "3201 Marathon Dr, San Diego, CA 92123",
     "division": "B16 - Flight 4 South SD",
@@ -2715,14 +3438,17 @@
     "coords": [
       32.8019169,
       -117.1262534
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "4"
   },
   {
     "matchId": "235",
     "date": "Saturday, November  1, 2025",
     "time": "08:00 PDT",
     "time24": "08:00",
-    "homeTeam": "Premier CV 2019",
+    "homeTeam": "ELI7E FC  ELI7E FC- PREMIER CV 2019",
     "awayTeam": "San Diego FORCE FC 2019 Boys Academy",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2733,14 +3459,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2019",
+    "Flight": "4"
   },
   {
     "matchId": "8556",
     "date": "Saturday, November  1, 2025",
     "time": "08:00 PDT",
     "time24": "08:00",
-    "homeTeam": "Legacy B2014",
+    "homeTeam": "ELI7E FC  ELI7E FC- LEGACY B2014",
     "awayTeam": "Dynamo El Centro Soccer Club Dynamo El Centro Soccer Club B2014 - Morquecho",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2751,7 +3480,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "1"
   },
   {
     "matchId": "23241",
@@ -2759,7 +3491,7 @@
     "time": "08:00 PDT",
     "time24": "08:00",
     "homeTeam": "Rebels Soccer Club B10 Premier",
-    "awayTeam": "Academy 2010",
+    "awayTeam": "ELI7E FC  ELI7E FC- ACADEMY 2010",
     "location": "Sunset View Park - North Field - Right Side (11v11)",
     "address": "1390 S Greensview Dr, Chula Vista, CA 91915",
     "division": "B10 - Flight 2 South SD",
@@ -2769,7 +3501,10 @@
     "coords": [
       32.6322823,
       -116.9597864
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2010",
+    "Flight": "2"
   },
   {
     "matchId": "23474",
@@ -2777,7 +3512,7 @@
     "time": "08:00 PDT",
     "time24": "08:00",
     "homeTeam": "Rebels Soccer Club G16 Elite",
-    "awayTeam": "Legacy 2016G",
+    "awayTeam": "ELI7E FC  ELI7E FC - LEGACY 2016G",
     "location": "Cottonwood Park - Field #1 - Front (7v7)",
     "address": "1778 E Palomar St, Chula Vista, CA 91913",
     "division": "G16 - Flight 1 SD",
@@ -2787,14 +3522,17 @@
     "coords": [
       32.6315748,
       -116.9832965
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2016",
+    "Flight": "1"
   },
   {
     "matchId": "3632",
     "date": "Saturday, November  1, 2025",
     "time": "08:00 PDT",
     "time24": "08:00",
-    "homeTeam": "Legacy 2016",
+    "homeTeam": "ELI7E FC  ELI7E FC- LEGACY 2016",
     "awayTeam": "ALBION SC San Diego ALBION SC San Diego B16 Academy'''",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 1 (9v9/7v7 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2805,7 +3543,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "1"
   },
   {
     "matchId": "28437",
@@ -2813,7 +3554,7 @@
     "time": "08:05 PDT",
     "time24": "08:05",
     "homeTeam": "City SC - San Marcos G2011 Gold - Simmons",
-    "awayTeam": "Select G2011",
+    "awayTeam": "ELI7E FC  ELI7E FC- SELECT G2011",
     "location": "Hollandia Park - Hollandia",
     "address": "12 Mission Hills Ct, San Marcos, CA 92069",
     "division": "G11 - Flight 4 SD",
@@ -2823,7 +3564,10 @@
     "coords": [
       33.1460458,
       -117.145249
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2011",
+    "Flight": "4"
   },
   {
     "matchId": "26778",
@@ -2831,7 +3575,7 @@
     "time": "09:00 PDT",
     "time24": "09:00",
     "homeTeam": "ALBION SC San Diego ALBION SC San Diego CV G18 Academy",
-    "awayTeam": "Pre Academy CV 2018G",
+    "awayTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY CV 2018G",
     "location": "ALBION Park - Field 1 (7v7)",
     "address": "2015 Birch Rd, Chula Vista, CA 91915",
     "division": "G18 - Flight 4 South SD",
@@ -2841,14 +3585,59 @@
     "coords": [
       32.621837,
       -116.9637491
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2018",
+    "Flight": "4"
+  },
+  {
+    "matchId": "1509",
+    "date": "Saturday, November  1, 2025",
+    "time": "09:25 PDT",
+    "time24": "09:25",
+    "homeTeam": "Coronado FC B2018 - Pangan",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT CV 2018",
+    "location": "Coronado Cays Park - Field 1A - 7v7",
+    "address": "Coronado Cays Park, Coronado, CA 92118",
+    "division": "B18 - Flight 4 South SD",
+    "coachName": "Bryan Durazo Ruiz",
+    "isEli7eGame": true,
+    "eli7eTeamName": "Select CV 2018",
+    "coords": [
+      32.622283,
+      -117.135635
+    ],
+    "Gender": "B",
+    "Year": "2018",
+    "Flight": "4"
+  },
+  {
+    "matchId": "5696",
+    "date": "Saturday, November  1, 2025",
+    "time": "09:25 PDT",
+    "time24": "09:25",
+    "homeTeam": "Coronado FC B2016G - Polley",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT CV 2016",
+    "location": "Coronado Cays Park - Field 1B - 7v7",
+    "address": "Coronado Cays Park, Coronado, CA 92118",
+    "division": "B16 - Flight 4 South SD",
+    "coachName": "Luis Maprigat",
+    "isEli7eGame": true,
+    "eli7eTeamName": "Select CV 2016",
+    "coords": [
+      32.622283,
+      -117.135635
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "4"
   },
   {
     "matchId": "6834",
     "date": "Saturday, November  1, 2025",
     "time": "09:25 PDT",
     "time24": "09:25",
-    "homeTeam": "Legacy 2015",
+    "homeTeam": "ELI7E FC  ELI7E FC- LEGACY 2015",
     "awayTeam": "ALBION SC San Diego ALBION SC San Diego CV B15 Academy",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2859,14 +3648,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2015",
+    "Flight": "2"
   },
   {
     "matchId": "5309",
     "date": "Saturday, November  1, 2025",
     "time": "09:25 PDT",
     "time24": "09:25",
-    "homeTeam": "Academy B2016",
+    "homeTeam": "ELI7E FC  ELI7E FC- ACADEMY B2016",
     "awayTeam": "Rebels Soccer Club B16 Premier 1",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 1 (9v9/7v7 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2877,15 +3669,18 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "3"
   },
   {
     "matchId": "283",
     "date": "Saturday, November  1, 2025",
     "time": "09:25 PDT",
     "time24": "09:25",
-    "homeTeam": "Select B2019",
-    "awayTeam": "Select B2019",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT B2019",
+    "awayTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY 2019",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
     "division": "B19 - Flight 4 South SD ",
@@ -2895,14 +3690,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2019",
+    "Flight": "4"
   },
   {
     "matchId": "1135",
     "date": "Saturday, November  1, 2025",
     "time": "10:50 PDT",
     "time24": "10:50",
-    "homeTeam": "Select 2018",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT 2018",
     "awayTeam": "City SC Carlsbad B18 - Abbandonato",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2913,14 +3711,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2018",
+    "Flight": "3"
   },
   {
     "matchId": "5618",
     "date": "Saturday, November  1, 2025",
     "time": "10:50 PDT",
     "time24": "10:50",
-    "homeTeam": "Premier 2016",
+    "homeTeam": "ELI7E FC  ELI7E FC- PREMIER 2016",
     "awayTeam": "San Diego FORCE FC 2016 Boys Premier I",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 1 (9v9/7v7 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2931,14 +3732,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "4"
   },
   {
     "matchId": "11418",
     "date": "Saturday, November  1, 2025",
     "time": "10:50 PDT",
     "time24": "10:50",
-    "homeTeam": "Academy 2014",
+    "homeTeam": "ELI7E FC  ELI7E FC- ACADEMY 2014",
     "awayTeam": "Golden Eagles FC B2014",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2949,7 +3753,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "3"
   },
   {
     "matchId": "24300",
@@ -2957,7 +3764,7 @@
     "time": "11:20 PDT",
     "time24": "11:20",
     "homeTeam": "La Jolla Impact La Jolla Impact G2016 Black",
-    "awayTeam": "Select 2016G",
+    "awayTeam": "ELI7E FC  ELI7E FC- SELECT 2016G",
     "location": "Allen Field - Allen Center",
     "address": "3908 Torrey Pines Rd, La Jolla, CA 92037",
     "division": "G16 - Flight 3 South SD",
@@ -2967,14 +3774,17 @@
     "coords": [
       32.84545,
       -117.269221
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2016",
+    "Flight": "3"
   },
   {
     "matchId": "29303",
     "date": "Saturday, November  1, 2025",
     "time": "12:15 PDT",
     "time24": "12:15",
-    "homeTeam": "Select 2017G",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT 2017G",
     "awayTeam": "ALBION SC San Diego ALBION SC San Diego EC G17 Academy",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -2985,14 +3795,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2017",
+    "Flight": "4"
   },
   {
     "matchId": "11692",
     "date": "Saturday, November  1, 2025",
     "time": "12:15 PDT",
     "time24": "12:15",
-    "homeTeam": "Premier 2014",
+    "homeTeam": "ELI7E FC  ELI7E FC- PREMIER 2014",
     "awayTeam": "San Diego FORCE FC 2014 Boys Premier III",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 2 (9v9/7v7 middle)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -3003,7 +3816,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "4"
   },
   {
     "matchId": "7910",
@@ -3011,7 +3827,7 @@
     "time": "12:15 PDT",
     "time24": "12:15",
     "homeTeam": "Rebels San Diego B2015 Premier (Garcia)",
-    "awayTeam": "Select 2015",
+    "awayTeam": "ELI7E FC  ELI7E FC- SELECT 2015",
     "location": "Rolando Park Elementary - Field 2 (Upper)",
     "address": "6620 Marlowe Dr, San Diego, CA 92115",
     "division": "B15 - Flight 4 South SD",
@@ -3021,14 +3837,17 @@
     "coords": [
       32.7465232,
       -117.0547728
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2015",
+    "Flight": "4"
   },
   {
     "matchId": "22810",
     "date": "Saturday, November  1, 2025",
     "time": "12:15 PDT",
     "time24": "12:15",
-    "homeTeam": "Academy 2015G",
+    "homeTeam": "ELI7E FC  ELI7E FC- ACADEMY 2015G",
     "awayTeam": "United SoCal San Diego G2015",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 1 (9v9/7v7 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -3039,7 +3858,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2015",
+    "Flight": "3"
   },
   {
     "matchId": "28679",
@@ -3047,7 +3869,7 @@
     "time": "13:15 PDT",
     "time24": "13:15",
     "homeTeam": "Crusaders Soccer League B2014 Premier Garcia",
-    "awayTeam": "Select CV 2014",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT CV 2014",
     "location": "Allied Garden Recreation Center - Allied Gardens 9v9 #1",
     "address": "5155 Greenbrier Ave, San Diego, CA 92120",
     "division": "B14 - Flight 4 South SD",
@@ -3057,14 +3879,17 @@
     "coords": [
       32.7957324,
       -117.0796344
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "4"
   },
   {
     "matchId": "25790",
     "date": "Saturday, November  1, 2025",
     "time": "13:40 PDT",
     "time24": "13:40",
-    "homeTeam": "Select CV 2017G",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT CV 2017G",
     "awayTeam": "Vaqueros FC G2017 PREMIER",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -3075,14 +3900,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2017",
+    "Flight": "3"
   },
   {
     "matchId": "14895",
     "date": "Saturday, November  1, 2025",
     "time": "13:40 PDT",
     "time24": "13:40",
-    "homeTeam": "Select 2013",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT 2013",
     "awayTeam": "Sporting San Diego B2013 Black",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 6 (11v11 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -3093,14 +3921,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2013",
+    "Flight": "3"
   },
   {
     "matchId": "2954",
     "date": "Saturday, November  1, 2025",
     "time": "15:05 PDT",
     "time24": "15:05",
-    "homeTeam": "Select CV 2017",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT CV 2017",
     "awayTeam": "ALBION SC San Diego ALBION SC San Diego B17 Academy II",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -3111,7 +3942,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2017",
+    "Flight": "3"
   },
   {
     "matchId": "2955",
@@ -3119,7 +3953,7 @@
     "time": "15:05 PDT",
     "time24": "15:05",
     "homeTeam": "Rebels San Diego B2017 Premier (Sevilla)",
-    "awayTeam": "Academy 2017",
+    "awayTeam": "ELI7E FC  ELI7E FC- ACADEMY 2017",
     "location": "Cubberley Elementary School - Field 1",
     "address": "3201 Marathon Dr, San Diego, CA 92123",
     "division": "B17 - Flight 3 SD South",
@@ -3129,14 +3963,17 @@
     "coords": [
       32.8019169,
       -117.1262534
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2017",
+    "Flight": "3"
   },
   {
     "matchId": "18001",
     "date": "Saturday, November  1, 2025",
     "time": "15:15 PDT",
     "time24": "15:15",
-    "homeTeam": "Academy 2012",
+    "homeTeam": "ELI7E FC  ELI7E FC - ACADEMY 2012",
     "awayTeam": "City SC - San Marcos B2012 Gold - Noble",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 6 (11v11 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -3147,14 +3984,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2012",
+    "Flight": "4"
   },
   {
     "matchId": "3260",
     "date": "Saturday, November  1, 2025",
     "time": "16:30 PDT",
     "time24": "16:30",
-    "homeTeam": "Select 2017",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT 2017",
     "awayTeam": "Rebels Soccer Club B17 Premier",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 3 (7v7 east)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -3165,14 +4005,17 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2017",
+    "Flight": "4"
   },
   {
     "matchId": "17806",
     "date": "Saturday, November  1, 2025",
     "time": "16:50 PDT",
     "time24": "16:50",
-    "homeTeam": "Select 2013G",
+    "homeTeam": "ELI7E FC  ELI7E FC- SELECT 2013G",
     "awayTeam": "Rebels San Diego G2013 Premier (Robertson)",
     "location": "Sweetwater Lane- ELI7E Turf Complex - Field 6 (11v11 west)",
     "address": "1312 Sweetwater Ln, Spring Valley, CA 91977",
@@ -3183,7 +4026,10 @@
     "coords": [
       32.716561,
       -117.006659
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2013",
+    "Flight": "3"
   },
   {
     "matchId": "3262",
@@ -3191,7 +4037,7 @@
     "time": "09:00 PST",
     "time24": "09:00",
     "homeTeam": "ALBION SC San Diego ALBION SC San Diego CV B17 Premier",
-    "awayTeam": "Select 2017",
+    "awayTeam": "ELI7E FC  ELI7E FC - SELECT 2017",
     "location": "ALBION Park - Field 2 (7v7)",
     "address": "2015 Birch Rd, Chula Vista, CA 91915",
     "division": " B17 - Flight 4 South II SD ",
@@ -3201,7 +4047,10 @@
     "coords": [
       32.621837,
       -116.9637491
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2017",
+    "Flight": "4"
   },
   {
     "matchId": "11423",
@@ -3209,7 +4058,7 @@
     "time": "09:00 PST",
     "time24": "09:00",
     "homeTeam": "ALBION SC San Diego ALBION SC San Diego EC B14 Academy",
-    "awayTeam": "Academy 2014",
+    "awayTeam": "ELI7E FC  ELI7E FC- ACADEMY 2014",
     "location": "WD Hall Elementary - Field 1 7v7/9v9",
     "address": "1000 E Chase Ave, El Cajon, CA 92020",
     "division": "B14 - Flight 3 South SD",
@@ -3219,7 +4068,10 @@
     "coords": [
       32.780477,
       -116.9481
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "3"
   },
   {
     "matchId": "5700",
@@ -3227,7 +4079,7 @@
     "time": "10:25 PST",
     "time24": "10:25",
     "homeTeam": "ALBION SC San Diego ALBION SC San Diego CV B16 Premier",
-    "awayTeam": "Select 2016",
+    "awayTeam": "ELI7E FC  ELI7E FC- SELECT 2016",
     "location": "ALBION Park - Field 2 (7v7)",
     "address": "2015 Birch Rd, Chula Vista, CA 91915",
     "division": "B16 - Flight 4 South SD",
@@ -3237,7 +4089,31 @@
     "coords": [
       32.621837,
       -116.9637491
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "4"
+  },
+  {
+    "matchId": "245",
+    "date": "Sunday, November  2, 2025",
+    "time": "10:50 PST",
+    "time24": "10:50",
+    "homeTeam": "Coronado FC B2019 - Smith",
+    "awayTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY 2019",
+    "location": "Coronado Cays Park - Field 1A - 7v7",
+    "address": "Coronado Cays Park, Coronado, CA 92118",
+    "division": "B19 - Flight 4 South SD ",
+    "coachName": "Angel Zazueta",
+    "isEli7eGame": true,
+    "eli7eTeamName": "Pre Academy 2019",
+    "coords": [
+      32.622283,
+      -117.135635
+    ],
+    "Gender": "B",
+    "Year": "2019",
+    "Flight": "4"
   },
   {
     "matchId": "26627",
@@ -3245,7 +4121,7 @@
     "time": "10:50 PST",
     "time24": "10:50",
     "homeTeam": "La Jolla Impact La Jolla Impact G2018",
-    "awayTeam": "Pre Academy 2018G",
+    "awayTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY 2018G",
     "location": "Allen Field - Allen Center",
     "address": "3908 Torrey Pines Rd, La Jolla, CA 92037",
     "division": "G18 - Flight 3 SD",
@@ -3255,7 +4131,10 @@
     "coords": [
       32.84545,
       -117.269221
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2018",
+    "Flight": "3"
   },
   {
     "matchId": "6839",
@@ -3263,7 +4142,7 @@
     "time": "12:15 PST",
     "time24": "12:15",
     "homeTeam": "Rebels Soccer Club B15 Academy 1",
-    "awayTeam": "Legacy 2015",
+    "awayTeam": "ELI7E FC  ELI7E FC- LEGACY 2015",
     "location": "Heritage Park (San Diego) - Field #1 (9v9)",
     "address": "2454 Heritage Park Row, San Diego, CA 92110",
     "division": "B15 - Flight 2 South SD",
@@ -3273,7 +4152,10 @@
     "coords": [
       32.7539857,
       -117.1928568
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2015",
+    "Flight": "2"
   },
   {
     "matchId": "3634",
@@ -3281,7 +4163,7 @@
     "time": "12:45 PST",
     "time24": "12:45",
     "homeTeam": "City SC Carlsbad B16 Pre MLS Next II - Conteville",
-    "awayTeam": "Legacy 2016",
+    "awayTeam": "ELI7E FC  ELI7E FC- LEGACY 2016",
     "location": "Aviara Park - Field 7",
     "address": "6435 Ambrosia Ln, Carlsbad, CA 92011",
     "division": "B16 - Flight 1 South SD",
@@ -3291,7 +4173,10 @@
     "coords": [
       33.1107959,
       -117.2813302
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "1"
   },
   {
     "matchId": "5620",
@@ -3299,24 +4184,27 @@
     "time": "13:40 PST",
     "time24": "13:40",
     "homeTeam": "Rebels San Diego B2016 Premier (Chazez) TS",
-    "awayTeam": "Premier 2016",
+    "awayTeam": "ELI7E FC  ELI7E FC- PREMIER 2016",
     "location": "Language Academy - Language Academy",
-    "address": "4961 64th St, San Diego, CA 92115",
+    "address": "Language Academy, San Diego, CA 92115",
     "division": "B16 - Flight 4 SD Central II",
     "coachName": "Kelly Lazzara",
     "isEli7eGame": true,
     "eli7eTeamName": "Premier 2016",
     "coords": [
-      32.7678612,
+      32.767861,
       -117.061894
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "4"
   },
   {
     "matchId": "7914",
     "date": "Sunday, November  2, 2025",
     "time": "14:00 PST",
     "time24": "14:00",
-    "homeTeam": "Select CV 2015",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT CV 2015",
     "awayTeam": "Golden Eagles FC B2015 Grey",
     "location": "ELI7E Turf Campus- La Presa - Field 4",
     "address": "9015 N Bonita St, Spring Valley, CA 91977",
@@ -3327,14 +4215,17 @@
     "coords": [
       32.7510024,
       -116.983302
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2015",
+    "Flight": "4"
   },
   {
     "matchId": "25793",
     "date": "Sunday, November  2, 2025",
     "time": "14:00 PST",
     "time24": "14:00",
-    "homeTeam": "Select CV 2017G",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT CV 2017G",
     "awayTeam": "ALBION SC San Diego ALBION SC San Diego G17 Academy I",
     "location": "ELI7E Turf Campus- La Presa - Field 1",
     "address": "9015 N Bonita St, Spring Valley, CA 91977",
@@ -3345,14 +4236,17 @@
     "coords": [
       32.7510024,
       -116.983302
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2017",
+    "Flight": "3"
   },
   {
     "matchId": "11695",
     "date": "Sunday, November  2, 2025",
     "time": "15:25 PST",
     "time24": "15:25",
-    "homeTeam": "Premier 2014",
+    "homeTeam": "ELI7E FC  ELI7E FC- PREMIER 2014",
     "awayTeam": "ALBION SC San Diego ALBION SC San Diego B14 Premier I",
     "location": "ELI7E Turf Campus- La Presa - Field 4",
     "address": "9015 N Bonita St, Spring Valley, CA 91977",
@@ -3363,14 +4257,17 @@
     "coords": [
       32.7510024,
       -116.983302
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2014",
+    "Flight": "4"
   },
   {
     "matchId": "5625",
     "date": "Saturday, November  8, 2025",
     "time": "10:30 PST",
     "time24": "10:30",
-    "homeTeam": "Premier 2016",
+    "homeTeam": "ELI7E FC  ELI7E FC- PREMIER 2016",
     "awayTeam": "San Diego Surf Soccer Club SD Surf Academy Boys 2016 (Penate)",
     "location": "ELI7E Turf Campus- La Presa - Field 4",
     "address": "9015 N Bonita St, Spring Valley, CA 91977",
@@ -3381,14 +4278,17 @@
     "coords": [
       32.7510024,
       -116.983302
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "4"
   },
   {
     "matchId": "26785",
     "date": "Saturday, November  8, 2025",
     "time": "10:30 PST",
     "time24": "10:30",
-    "homeTeam": "Pre Academy CV 2018G",
+    "homeTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY CV 2018G",
     "awayTeam": "City SC Carlsbad G18 Premier - Maddocks",
     "location": "ELI7E Turf Campus- La Presa - Field 1",
     "address": "9015 N Bonita St, Spring Valley, CA 91977",
@@ -3399,7 +4299,10 @@
     "coords": [
       32.7510024,
       -116.983302
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2018",
+    "Flight": "4"
   },
   {
     "matchId": "26630",
@@ -3407,7 +4310,7 @@
     "time": "10:50 PST",
     "time24": "10:50",
     "homeTeam": "Rebels Soccer Club G18 Academy",
-    "awayTeam": "Pre Academy 2018G",
+    "awayTeam": "ELI7E FC  ELI7E FC - PRE ACADEMY 2018G",
     "location": "Cottonwood Park - Field #1 - Front (7v7)",
     "address": "1778 E Palomar St, Chula Vista, CA 91913",
     "division": "G18 - Flight 3 SD",
@@ -3417,14 +4320,17 @@
     "coords": [
       32.6315748,
       -116.9832965
-    ]
+    ],
+    "Gender": "G",
+    "Year": "2018",
+    "Flight": "3"
   },
   {
     "matchId": "3639",
     "date": "Saturday, November  8, 2025",
     "time": "11:55 PST",
     "time24": "11:55",
-    "homeTeam": "Legacy 2016",
+    "homeTeam": "ELI7E FC  ELI7E FC- LEGACY 2016",
     "awayTeam": "Legends FC - San Diego B16 FC",
     "location": "ELI7E Turf Campus- La Presa - Field 4",
     "address": "9015 N Bonita St, Spring Valley, CA 91977",
@@ -3435,14 +4341,17 @@
     "coords": [
       32.7510024,
       -116.983302
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2016",
+    "Flight": "1"
   },
   {
     "matchId": "3267",
     "date": "Saturday, November  8, 2025",
     "time": "11:55 PST",
     "time24": "11:55",
-    "homeTeam": "Select 2017",
+    "homeTeam": "ELI7E FC  ELI7E FC - SELECT 2017",
     "awayTeam": "South Bay FC B-2017 Cesar Ramirez",
     "location": "ELI7E Turf Campus- La Presa - Field 1",
     "address": "9015 N Bonita St, Spring Valley, CA 91977",
@@ -3453,6 +4362,9 @@
     "coords": [
       32.7510024,
       -116.983302
-    ]
+    ],
+    "Gender": "B",
+    "Year": "2017",
+    "Flight": "4"
   }
 ]

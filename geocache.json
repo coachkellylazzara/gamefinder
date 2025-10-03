@@ -171,10 +171,60 @@
     "lat": 32.7465232,
     "lon": -117.0547728
   },
-  "99 Grand Caribe Isle, Coronado, CA 92118": null,
-  "935 S Emerald Ave, El Cajon, CA 92020": null,
-  "30833 SD-76, Pauma Valley, CA 92061": null,
-  "16118D 4S Ranch Parkway, San Diego, CA 92127": null,
-  "1475 Fourth Ave, Chula Vista, CA 91911": null,
-  "9669 Dunbar Ln, El Cajon, CA 92021": null
+  "99 Grand Caribe Isle, Coronado, CA 92118": {
+    "lat": 32.622283,
+    "lon": -117.135635
+  },
+  "935 S Emerald Ave, El Cajon, CA 92020": {
+    "lat": 32.783176,
+    "lon": -116.968483
+  },
+  "30833 SD-76, Pauma Valley, CA 92061": {
+    "lat": 33.2863,
+    "lon": -116.9751
+  },
+  "16118D 4S Ranch Parkway, San Diego, CA 92127": {
+    "lat": 33.004394,
+    "lon": -117.119511
+  },
+  "1475 Fourth Ave, Chula Vista, CA 91911": {
+    "lat": 32.6265,
+    "lon": -117.0585
+  },
+  "9669 Dunbar Ln, El Cajon, CA 92021": {
+    "lat": 32.8323,
+    "lon": -116.8887
+  },
+  "Coronado Cays Park, Coronado, CA 92118": {
+    "lat": 32.622283,
+    "lon": -117.135635
+  },
+  "Renette Park, El Cajon, CA 92020": {
+    "lat": 32.7831764,
+    "lon": -116.9684834
+  },
+  "Harvest Park, Pauma Valley, CA 92061": {
+    "lat": 33.2863,
+    "lon": -116.9751
+  },
+  "4S Ranch Sports Park, San Diego, CA 92127": {
+    "lat": 33.0043946,
+    "lon": -117.119511
+  },
+  "Orange Park, Chula Vista, CA 91911": {
+    "lat": 32.6265,
+    "lon": -117.0585
+  },
+  "Terra Nova Park, Chula Vista, CA 91911": {
+    "lat": 32.644031,
+    "lon": -117.039377
+  },
+  "Arbolitos Sports Fields, Poway, CA 92064": {
+    "lat": 32.974679,
+    "lon": -117.062338
+  },
+  "Los Coches Creek Middle School, El Cajon, CA 92021": {
+    "lat": 32.8323,
+    "lon": -116.8887
+  }
 }

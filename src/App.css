@@ -6,28 +6,128 @@ body {
   display: flex; flex-direction: column; height: 100vh; overflow: hidden;
 }
 .header {
-  padding: 0.75rem 1rem; background-color: white; border-bottom: 1px solid #ddd; flex-shrink: 0; z-index: 20;
+  padding: 0.5rem 1rem; background-color: white; border-bottom: 1px solid #ddd; flex-shrink: 0; z-index: 20;
 }
 .header h1 {
-  margin: 0; font-size: 1.25rem; color: #1a1a1a;
+  margin: 0; font-size: 1.1rem; color: #1a1a1a;
+}
+.filters-container-wrapper {
+  padding: 0.75rem 1rem; background-color: #fafafa; border-bottom: 1px solid #ddd;
+  z-index: 20;
 }
 .filters-container {
-  padding: 0.75rem 1rem; background-color: #fafafa; border-bottom: 1px solid #ddd;
   display: flex; align-items: center; gap: 1.5rem; flex-shrink: 0; flex-wrap: wrap; z-index: 20;
 }
 .filter-item {
   display: flex; align-items: center; gap: 0.5rem;
+  min-width: 180px;
+}
+
+/* --- Multi-select Dropdown Styles --- */
+.multiselect-dropdown {
+  position: relative;
+  width: 100%;
+}
+.multiselect-toggle {
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 6px 10px;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.9rem;
+}
+.multiselect-toggle span {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.multiselect-arrow {
+  border: solid #555;
+  border-width: 0 2px 2px 0;
+  display: inline-block;
+  padding: 3px;
+  transform: rotate(45deg);
+  margin-left: 10px;
+}
+.multiselect-options {
+  position: absolute;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+  max-height: 350px;
+  overflow-y: auto;
+  z-index: 1000;
+  margin-top: 4px;
+}
+.multiselect-options label {
+  display: block;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+.multiselect-options label.selected {
+  background-color: #e9ecef;
+  font-weight: 500;
+}
+.multiselect-options label:hover { background-color: #f0f2f5; }
+.multiselect-options .select-all-option {
+  font-weight: bold;
+  border-bottom: 1px solid #ddd;
+  background-color: #f8f9fa;
+}
+.multiselect-options label.select-all-option:not(:first-child) {
+  border-top: 1px solid #ddd;
+}
+.multiselect-options input { margin-right: 8px; }
+
+.filter-item-group {
+  display: flex;
+  gap: 1rem;
+  margin-left: auto;
+}
+.mobile-toggles {
+  display: none; /* Hidden on desktop */
+}
+.mobile-filter-toggle {
+  display: none; /* Hidden on desktop */
+}
+.mobile-filter-toggle a {
+  font-weight: 500;
+  color: #007bff;
+  font-size: 0.8rem;
+}
+.reset-filters-link {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #dc3545;
+  margin-left: 1rem;
+}
+
+.mobile-map-toggle {
+  display: none; /* Hidden by default */
 }
 .download-button {
   background-color: #28a745; color: white; padding: 4px 10px;
   border-radius: 4px; text-decoration: none; font-size: 0.9rem;
   font-weight: 500; transition: background-color 0.2s;
+  white-space: nowrap; /* Prevent text from wrapping */
 }
 .download-button:hover {
   background-color: #218838;
 }
 .main-content {
-  display: flex; flex-grow: 1; min-height: 0;
+  display: flex; flex-grow: 1; min-height: 0; position: relative; z-index: 1;
+}
+.app-footer {
+  padding: 0.5rem 1rem;
+  background-color: #fafafa;
+  border-top: 1px solid #ddd;
+  text-align: center;
 }
 .map-view-container {
   flex-grow: 1; min-height: 0;
@@ -57,13 +157,28 @@ body {
   display: flex; justify-content: space-between; align-items: center;
 }
 .location-group h3:hover { background-color: #e9ecef; }
-.game-card { border-bottom: 1px solid #eee; padding: 0.75rem; transition: background-color 0.2s; }
-.game-card-header { display: flex; justify-content: space-between; align-items: center; font-size: 0.8rem; color: #555; margin-bottom: 0.5rem; }
-.game-card-body { text-align: center; }
-.game-card-body p { margin: 0.25rem 0; font-weight: 500; white-space: normal; overflow-wrap: break-word; }
-.game-card-footer { text-align: left; font-size: 0.8rem; color: #333; margin-top: 0.75rem; }
-.highlighted-group { background-color: #ffffa0; border-left: 4px solid #ffc107; }
-.highlighted-card { background-color: #fff3e0; border-left: 4px solid #fd7e14; }
+.game-card { border-bottom: 1px solid #eee; padding: 0.5rem 0.75rem; transition: background-color 0.2s; }
+.game-card-header { display: flex; justify-content: space-between; align-items: center; font-size: 0.8rem; color: #555; margin-bottom: 0.25rem; }
+.game-card-body {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  gap: 0.5rem;
+}
+.team-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.game-card-body p { margin: 0; font-weight: 500; }
+.game-card-body .vs-divider {
+  font-weight: 300;
+  font-size: 0.8rem;
+}
+.coach-name {
+  font-size: 0.75rem; color: #555;
+}
 .custom-marker-icon, .highlighted-marker-icon {
   border-radius: 50%; font-weight: bold; font-size: 14px;
   display: flex; justify-content: center; align-items: center;
@@ -114,33 +229,105 @@ body {
   }
   .game-list-container {
     width: 100%;
-    height: 50%;
+    height: 30%; /* Make game list even smaller */
     border-left: none;
     border-top: 1px solid #ddd;
     order: 2; /* List is second */
   }
   .map-view-container {
-    height: 50%;
+    height: 70%; /* Give map more space */
+    position: relative; /* For positioning the map toggle */
     order: 1; /* Map is first */
   }
 
+  .map-view-container.mobile-hidden {
+    display: none;
+  }
+
+  /* When map is hidden, make the game list take up the full height */
+  .map-view-container.mobile-hidden + .game-list-container {
+    height: 100%;
+    flex-grow: 1; /* Ensure it fills the flex container */
+  }
+
+  /* When filters are hidden, give more space to the game list */
+  .main-content.filters-hidden-mobile .map-view-container {
+    height: 60%;
+  }
+  .main-content.filters-hidden-mobile .game-list-container {
+    height: 40%;
+  }
+
+
   /* UPDATED: Styles for filter layout */
+  .filters-container-wrapper {
+    padding: 0.25rem 1rem;
+  }
   .filters-container {
-    flex-direction: column; /* Stack the filter rows vertically */
+    display: none;
     gap: 0.5rem;
     align-items: stretch;
+    margin-top: 0.25rem;
   }
-  .filter-row {
+  .filters-container.is-open {
     display: flex;
-    width: 100%;
-    gap: 1rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .mobile-toggles {
+    display: flex;
+    justify-content: space-between;
+  }
+  .mobile-filter-toggle {
+    display: block;
+  }
+  .mobile-map-toggle-container {
+    display: block;
   }
   .filter-item {
-    flex: 1; /* Allow items to share space */
-    min-width: 0;
+    flex-basis: calc(50% - 0.5rem);
+    min-width: calc(50% - 0.5rem);
   }
-  .filter-item select {
+  .header h1 {
+    font-size: 1rem;
+  }
+  .filter-item-group {
+    display: contents; /* Make children direct flex items of filters-container */
+  }
+  .filter-item-group > .filter-item {
+    flex-grow: 1;
+  }
+  .schedule-card-container, .filter-item label {
+    flex-grow: 0;
+    justify-content: flex-start;
+  }
+  .filter-item select, .multiselect-toggle {
     width: 100%; /* Make dropdowns fill their container */
+    font-size: 0.8rem;
+  }
+  .filter-item label {
+    white-space: nowrap; /* Prevent "Away Game Info" from wrapping */
+  }
+  .map-toggle-link {
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: #007bff;
+  }
+  .reset-filters-link {
+    font-size: 0.8rem;
+  }
+  
+  .multiselect-dropdown.is-open .multiselect-options {
+    min-width: 220px;
+    width: max-content;
+  }
+  .filter-item:nth-child(even) .multiselect-dropdown.is-open .multiselect-options {
+    right: 0;
+    left: auto;
+  }
+  .filter-item:nth-child(odd) .multiselect-dropdown.is-open .multiselect-options {
+    left: 0;
+    right: auto;
   }
 
   /* Font size adjustments */
@@ -154,5 +341,10 @@ body {
   }
   .game-card-header, .game-card-footer {
     font-size: 0.75rem;
+  }
+
+  /* Ensure app uses full screen height on mobile */
+  .app-container {
+    height: 100dvh; /* Use dynamic viewport height */
   }
 }

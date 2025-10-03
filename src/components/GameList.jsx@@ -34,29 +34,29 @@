@@ -38,7 +38,7 @@ function GameList({ games, locationFilter, setLocationFilter, coachFilter, setCo
             setIsLocationGroupOpen(true);
             setExpandedLocations(new Set(locationFilter));
             setTimeout(() => {
-                const node = locationFilter.length > 0 ? locationRefs.current[locationFilter[0]] : null;
+                const node = locationRefs.current[locationFilter[0]];
                 const container = listContainerRef.current;
                 if (node && container) {
                     const scrollPosition = node.offsetTop - (container.offsetHeight / 2) + (node.offsetHeight / 2);
@@ -46,14 +46,14 @@ function GameList({ games, locationFilter, setLocationFilter, coachFilter, setCo
                 }
             }, 100);
         } else if (locationFilter.length === 0) { setExpandedLocations(new Set()); }
-    }, [locationFilter, games]); // Add `games` to dependency array
+    }, [locationFilter]);
 
     useEffect(() => {
         if (coachFilter.length > 0 && games.length > 0) {
             setIsCoachGroupOpen(true);
             setExpandedCoaches(new Set(coachFilter));
              setTimeout(() => {
-                const node = coachFilter.length > 0 ? coachRefs.current[coachFilter[0]] : null;
+                const node = coachRefs.current[coachFilter[0]];
                 const container = listContainerRef.current;
                 if (node && container) {
                     const scrollPosition = node.offsetTop - (container.offsetHeight / 2) + (node.offsetHeight / 2);
@@ -61,7 +61,7 @@ function GameList({ games, locationFilter, setLocationFilter, coachFilter, setCo
                 }
             }, 100);
         } else if (coachFilter.length === 0) { setExpandedCoaches(new Set()); }
-    }, [coachFilter, games]); // Add `games` to dependency array
+    }, [coachFilter]);
 
     const gamesByLocation = games.reduce((acc, g) => { (acc[g.location] = acc[g.location] || []).push(g); return acc; }, {});
     const gamesByCoach = games.filter(g => g.coachName).reduce((acc, g) => { (acc[g.coachName] = acc[g.coachName] || []).push(g); return acc; }, {});

@@ -4,20 +4,27 @@ import L from 'leaflet';
 
 function MapClickHandler({ resetFilters }) {
     useMapEvents({
-        click: () => {
-            resetFilters();
-        },
+        click: () => {},
     });
     return null;
 }
 
-const OnMapGameCard = ({ game, setSelectedMatchId }) => (
-    <div className="on-map-game-card" onClick={() => setSelectedMatchId(game.matchId)}>
-        <span>{game.time24}</span>
-        <span>{game.eli7eTeamName}</span>
-        <span>{game.coachName}</span>
-    </div>
-);
+const OnMapGameCard = ({ game, setSelectedMatchId }) => {
+    let coachDisplay = game.coachName;
+    if (game.location.includes('Sweetwater')) {
+        const fieldMatch = game.location.match(/Field (\d+)/);
+        if (fieldMatch) {
+            coachDisplay += ` Field ${fieldMatch[1]}`;
+        }
+    }
+    return (
+        <div className="on-map-game-card" onClick={() => setSelectedMatchId(game.matchId)}>
+            <span>{game.time24}</span>
+            <span>{game.eli7eTeamName}</span>
+            <span>{coachDisplay}</span>
+        </div>
+    );
+};
 
 function MapView({ games, locationFilter, setLocationFilter, resetFilters, showAwaySummaries, setSelectedMatchId }) {
     const gamesByAddress = games.reduce((acc, game) => {
@@ -36,28 +43,60 @@ function MapView({ games, locationFilter, setLocationFilter, resetFilters, showA
             <MapClickHandler resetFilters={resetFilters} />
 
             {Object.values(gamesByAddress).map(gamesAtAddress => {
-                const uniqueLocations = [...new Set(gamesAtAddress.map(g => g.location))];
-                const totalLocationsAtAddress = uniqueLocations.length;
-                
-                return uniqueLocations.map((locationName, index) => {
-                    const locationGames = gamesAtAddress.filter(g => g.location === locationName);
-                    if (locationGames.length === 0) return null;
+                let locationsDetails;
+                const isSweetwater = gamesAtAddress[0].location.includes('Sweetwater');
 
+                if (isSweetwater) {
+                    const grouped = gamesAtAddress.reduce((acc, game) => {
+                        let groupName = game.location;
+                        if (game.location.includes('Field 1') || game.location.includes('Field 6')) {
+                            groupName = 'Sweetwater Fields 1 & 6';
+                        } else if (game.location.includes('Field 2') || game.location.includes('Field 7')) {
+                            groupName = 'Sweetwater Fields 2 & 7';
+                        }
+                        if (!acc[groupName]) {
+                            acc[groupName] = { name: groupName, coords: game.coords, games: [] };
+                        }
+                        acc[groupName].games.push(game);
+                        return acc;
+                    }, {});
+                    locationsDetails = Object.values(grouped);
+                } else {
+                    const uniqueLocations = [...new Set(gamesAtAddress.map(g => g.location))];
+                    locationsDetails = uniqueLocations.map(locName => {
+                        const games = gamesAtAddress.filter(g => g.location === locName);
+                        return games.length > 0 ? { name: locName, coords: games[0].coords, games } : null;
+                    }).filter(Boolean);
+                }
+                
+                const totalLocationsAtAddress = locationsDetails.length;
+
+
+                return locationsDetails.map((locationDetail, index) => {
+                    const { name: locationName, coords, games: locationGames } = locationDetail;
                     const gameCount = locationGames.length;
-                    const coords = locationGames[0].coords;
-                    const isHighlighted = locationFilter === locationName;
-                    
+                    const isHighlighted = locationFilter.includes(locationName);
+
                     if (!coords || isNaN(coords[0]) || isNaN(coords[1])) {
                         return null; 
                     }
 
                     let position = coords;
-                    if (totalLocationsAtAddress > 1) {
+                    let tooltipDirection = 'right';
+                    let tooltipOffset = [20, 0];
+
+                    if (isSweetwater && totalLocationsAtAddress > 1) {
                         const angle = (360 / totalLocationsAtAddress) * index;
-                        const radius = 0.001;
+                        const radius = 0.002; // Increased radius for more spacing
                         const latOffset = radius * Math.cos(angle * (Math.PI / 180));
                         const lonOffset = radius * Math.sin(angle * (Math.PI / 180));
                         position = [coords[0] + latOffset, coords[1] + lonOffset];
+
+                        // For Sweetwater, show tooltips on the left for the grouped fields to prevent overlap
+                        if (locationName.includes('Fields 1 & 6') || locationName.includes('Fields 2 & 7')) {
+                            tooltipDirection = 'left';
+                            tooltipOffset = [-20, 0];
+                        }
                     }
 
                     const customIcon = L.divIcon({
@@ -67,8 +106,12 @@ function MapView({ games, locationFilter, setLocationFilter, resetFilters, showA
                         iconAnchor: [15, 15],
                     });
                     
-                    const isSweetwater = locationName.includes('Sweetwater');
-                    const eli7eGames = locationGames.filter(g => g.isEli7eGame);
+                    const eli7eGames = locationGames.filter(g => {
+                        if (!g.isEli7eGame) return false;
+                        const isHome = g.homeTeam.includes('ELI7E FC');
+                        const isAway = g.awayTeam.includes('ELI7E FC');
+                        return (showAwaySummaries.includes('home') && isHome) || (showAwaySummaries.includes('away') && isAway);
+                    });
 
                     return (
                         <Marker 
@@ -78,12 +121,17 @@ function MapView({ games, locationFilter, setLocationFilter, resetFilters, showA
                             eventHandlers={{
                                 click: (e) => {
                                     L.DomEvent.stopPropagation(e);
-                                    setLocationFilter(locationName);
+                                    setLocationFilter(prev => {
+                                        const newFilter = new Set(prev);
+                                        if (newFilter.has(locationName)) newFilter.delete(locationName);
+                                        else newFilter.add(locationName);
+                                        return Array.from(newFilter);
+                                    });
                                 },
                             }}
                         >
-                            {showAwaySummaries && !isSweetwater && eli7eGames.length > 0 && (
-                                <Tooltip permanent direction="right" offset={[20, 0]} className="game-card-tooltip">
+                            {(isHighlighted || showAwaySummaries.length > 0) && eli7eGames.length > 0 && (
+                                <Tooltip permanent direction={tooltipDirection} offset={tooltipOffset} className="game-card-tooltip">
                                     {eli7eGames.map(game => 
                                         <OnMapGameCard key={game.matchId} game={game} setSelectedMatchId={setSelectedMatchId} />
                                     )}
